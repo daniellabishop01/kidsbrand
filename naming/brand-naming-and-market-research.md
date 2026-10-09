@@ -8,8 +8,9 @@
 
 1. **Scouts is a good idea, but it has two real problems.** It sounds like explorers who notice things, which is positive and fits kids. But the word "Scouts" in a kids' brand belongs, in parents' minds, to Scouting America and Girl Scouts of the USA. Those two groups went to federal court with each other over "Scout" (2018–2022). The name also feels young to 13–17 year olds, who tend to leave scouting behind at that age.
 2. **The structure matters more than the word.** Hiya and OLLY both use **one friendly master brand plus plain benefit names for each product** (e.g., *Hiya Kids Bedtime Essentials*, *OLLY Focus Buddies*). Do the same here, so the brand name never needs the word "kids". The teen line then becomes *[Brand] Teen Focus* without a rebrand.
-3. **Test three names against each other:** **Wits** (my top pick), **Scouts/Scout** and **Keel**. Section 6 shows how to test them with parents using cheap Meta ads, following Molly Pittman's method, before you pay for legal clearance.
-4. **There is a competitor the outline doesn't cover:** OLLY already sells kids' focus and calm products: **Focus Buddies** (Cognizin citicoline, ages 4+) and **Mellow Buddies** (L-theanine), at Target since 2024. Add both to the Phase 2 competitor review. OLLY sells focus and calm as two separate products, while ours covers both in one study. That difference is a selling point.
+3. **The brand will sell more than brain supplements, so the master brand can't be about focus.** Focus & Calm is the hero product. The master brand has to work just as well on sleep, immunity, gut, hydration and greens.
+4. **Recommendation:** use **Wayfinder** as the master brand (it keeps the Scouts explorer idea without the Scouting organizations' word) and **Wits** as the hero product's name: *Wayfinder Wits, Focus & Calm*. Test **Wayfinder vs. Scout vs. Field Day** with parents using cheap Meta ads, following Molly Pittman's method, while a lawyer runs the trademark checks (sections 6–7).
+5. **There is a competitor the outline doesn't cover:** OLLY already sells kids' focus and calm products: **Focus Buddies** (Cognizin citicoline, ages 4+) and **Mellow Buddies** (L-theanine), at Target since 2024. Add both to the Phase 2 competitor review. OLLY sells focus and calm as two separate products, while ours covers both in one study. That difference is a selling point.
 
 ---
 
@@ -26,8 +27,8 @@
 | # | Issue | Recommendation |
 |---|---|---|
 | 1 | **OLLY Focus Buddies / Mellow Buddies are missing** from the competitor set. They are mass retail, about $18, ages 4+. | Add them to Phase 2. Sell "focus **and** calm in one, studied together in kids" against OLLY's two separate products. Check whether OLLY's ingredient studies were done in children before making any comparison. |
-| 2 | **"Kid's Focus" is both the product and the working brand name.** The plan says it wants "room for teen and adult products". | Use a master brand plus descriptors: *[Brand] Focus & Calm* (6–12), later *[Brand] Teen Focus*, *[Brand] Study Days*. Never put "Kids" in the master brand. |
-| 3 | **Meta ad policy:** ads can't state or imply someone's health condition ("Does your child have ADHD?"). | Write hooks about situations, not diagnoses: "Homework shouldn't be a battle", "For families at their wits' end". This matters for the name too: Wits makes these hooks easy to write. |
+| 2 | **"Kid's Focus" is both the product and the working brand name.** The brand will expand to other categories and to teens. | Use a master brand that fits every category, with Focus & Calm as the named hero product: *[Brand] Wits, Focus & Calm*, then *[Brand] Sleep*, *[Brand] Immune*, *[Brand] Teen Focus*. Never put "Kids" or "Focus" in the master brand. |
+| 3 | **Meta ad policy:** ads can't state or imply someone's health condition ("Does your child have ADHD?"). | Write hooks about situations, not diagnoses: "Homework shouldn't be a battle", "For families at their wits' end". Naming the hero product Wits makes these hooks easy to write. |
 | 4 | **Price: $34.99 vs. OLLY's ~$18 lollipops.** | Frame it as about $1 a day and explain why the study justifies the price. Use a low-risk first offer, e.g., a trial pack that pays for itself (section 5). |
 | 5 | **Amazon is channel #2,** and Amazon Brand Registry needs a filed trademark. | Run the trademark knockout search for the chosen name **in October**. A late name change would hold up Amazon. |
 | 6 | **The study is small (n=40),** with children described as "hyperactive or inattentive". | Keep claims within what the study measured. Point parents to the pediatrician one-pager, and say "studied in children ages 6–12", not "proven". |
@@ -98,59 +99,70 @@
 
 ## 6. Naming exploration
 
-### Naming criteria (from the Team Overview)
-1. **Grows with the child:** works at 6, 14 and as an adult brand.
-2. **Fits focus and calm together,** which is our point of difference against OLLY's split products.
-3. **Safe for compliance:** no hint of disease or medication.
-4. **Positive, trustworthy, warm, and grounded in evidence.**
+> **Updated brief (Oct 9):** the brand will sell **more than brain supplements**. Focus & Calm is the **hero product**, and later products could include sleep, immunity, gut health, hydration, greens and multivitamins, first for ages 6–12 and later for teens. **The master brand has to fit every category, not just focus.**
+
+### Naming criteria
+1. **Fits every category:** it should sound just as right on a sleep powder or an immunity chew as on the focus product. *(new, and now the most important)*
+2. **Grows with the child:** works at 6, at 14, and possibly for adults.
+3. **Positive, trustworthy, warm, and grounded in evidence.**
+4. **Safe for compliance:** no hint of disease or medication.
 5. **Kids like it,** and it works with stickers, a reward chart and a mascot.
 6. **We can own it:** trademark, domain, social handles, and Amazon search.
 
-### Scouts: a closer look
+### What changed
+- **Wits and Keel move from master brand to product name.** Both say "focus and calm", which made them strong for one product, but *Wits Immune* or *Keel Greens* don't make sense. Wits is still an excellent **name for the hero product** (see below).
+- **The Scouts idea gets stronger.** Exploring, growing and "gear for the adventure of growing up" fit any category, so a scouting-style brand can cover focus, sleep, immunity and hydration. The trademark, endorsement and teen problems are unchanged, so the **theme** is worth keeping even if the word "Scouts" isn't.
+- **Hiya and OLLY show the model:** each has a **meaning-light, warm master brand** and products named for their benefit. Neither name says what the products do, which is why both could keep adding categories.
 
-| Pros | Cons |
-|---|---|
-| Explorer, curious, noticing things: focus framed as a strength, not a deficit. | **Kids already associate "Scouts" with the Scouting organizations,** which actively defend "Scout" (Girl Scouts v. Boy Scouts, 2018–22). Parents may assume we're endorsed by them, especially at schools and sports fields. |
-| A natural reward system: merit badges and the reward chart, "earn your badge". | **Teens age out of the scouting identity.** "Scouts" feels about 10 years old at 15. |
-| Short and easy to say. | **Searches go to the Scouting organizations** for "scouts" anything. The word itself is common and hard to own. |
-| Positive and active, with no medical feel. | The plural reads as a club or troop, not a product. |
+### Brand structure
 
-**If the team loves Scouts:** consider the singular **Scout** as the master brand (e.g., *Scout Focus & Calm*), or use **Scout as the mascot or character** inside another master brand. A mascot keeps the badge and explorer theme for kids and avoids the trademark and teen problems.
+```
+MASTER BRAND (fits every category, warm, grows with the child)
+ ├── Hero:  [Brand] Wits — Focus & Calm Daily Stick   (Bacozest®, studied in kids)
+ ├── Next:  [Brand] Sleep · [Brand] Immune · [Brand] Gut · [Brand] Hydrate · [Brand] Greens
+ └── Later: [Brand] Teen line (Teen Focus / Study Days, Teen Sleep, Teen Sport)
+```
 
-### Alternative names
+Name the hero product (e.g., **Wits**) so it can build its own reputation, the way OLLY's *Goodbye Stress* or Hiya's *Bedtime Essentials* did. Later products can just use a plain descriptor.
 
-| Name | Story | Example product line | Grows with child | Focus + calm | Compliance | Kid appeal | Ownability* |
-|---|---|---|---|---|---|---|---|
-| **Wits** ⭐ | "Keep your wits about you" means clear-headed **and** calm. Its opposite, "at your wits' end", describes our frustrated parent exactly. | *Wits Focus & Calm*, *Wits Teen*, *Wits Study Days* | ●●●●● | ●●●●● | ●●●● | ●●● | ●●●● |
-| **Scouts / Scout** | Explorers who notice things; earn your badges. | *Scout Focus & Calm* | ●●● | ●●● | ●●●●● | ●●●● | ●● |
-| **Keel** | "Even keel": steady, balanced, focused. Calm and grounded, and very credible. | *Keel Focus & Calm*, *Keel Teen* | ●●●●● | ●●●● | ●●●●● | ●● | ●●●● |
-| **Huddle** | Team, togetherness ("better days together"); sports parents. | *Huddle Focus* | ●●●● | ●● | ●●●●● | ●●●● | ●●● |
-| **Sidekick** | A helper, not the hero: the child is the hero. Fits "supports" wording. | *Sidekick Focus & Calm* | ●●● | ●●● | ●●●●● | ●●●●● | ●● |
-| **Noodle** | "Use your noodle." Fun, warm and memorable. | *Noodle Focus* | ●●● | ●●● | ●●●● | ●●●●● | ●● (education brands use it) |
-| **Tandem** | Parent and child together; less frustration on both sides. | *Tandem Focus & Calm* | ●●●●● | ●● | ●●●●● | ●● | ●● |
-| **Brightly** | Positive and clear-minded; "learn brightly". | *Brightly Focus* | ●●●● | ●●● | ●●●●● | ●●● | ●● |
+### Shortlist candidates, re-scored for a multi-category brand
 
-*\*Ownability is my judgment from quick web searches only, which found no obvious supplement brands named Keel, Wits, Huddle or Tandem. **It is not trademark clearance.** A trademark attorney should run a USPTO knockout search (Class 5: supplements; Class 35: retail), plus domain, social handle and Amazon checks, before any spend.*
+| Name | Story | Fits every category | Grows with child | Kid appeal | Trust/warmth | Ownability* |
+|---|---|---|---|---|---|---|
+| **Scout** (singular) | Explorer, curious; "gear for growing up". Keeps the concept you like. | ●●●●● | ●●● | ●●●● | ●●●● | ●● (Scouting orgs) |
+| **Wayfinder** ⭐ | Explorer theme without "Scouts": helping kids find their way through school, sleep, sport and growing up. | ●●●●● | ●●●●● | ●●● | ●●●●● | ●●●● |
+| **Field Day** | Active, fun, outdoor, sport and school days; makes parents smile. | ●●●● | ●●●● | ●●●●● | ●●● | ●●● (idiom "have a field day" = chaos) |
+| **Wilder** | Free-range, curious, growing up wild and well. | ●●●● | ●●●●● | ●●●● | ●●● | ●●● (unchecked) |
+| **Rally** | Team spirit, getting back up; sports families. | ●●● (sounds like energy, less like calm or sleep) | ●●●●● | ●●●● | ●●● | ●●● |
+| **Huddle** | Togetherness ("better days together"); family and team. | ●●●● | ●●●● | ●●●● | ●●●● | ●●● |
+| ~~Wits~~ / ~~Keel~~ | Too tied to focus to be the master brand. **Wits becomes the hero product name.** | ●● | ●●●●● | — | — | — |
+| ~~Wren~~ | Ruled out: Wren Laboratories (Optibac) sells kids' probiotics. | — | — | — | — | ✕ |
+| ~~Basecamp~~ | Ruled out: a famous software brand. | — | — | — | — | ✕ |
 
-### Why Wits is the lead recommendation
-- **One word covers both benefits.** Keeping your wits means being sharp and steady. No other candidate says focus and calm together this neatly.
-- **The parent's pain is built in:** "For families at their wits' end." That hook is compliant and never mentions a condition. It speaks to the conversation in the parent's head, as Pittman teaches.
-- **Teens and adults use the word too:** *Wits Teen Focus* before exams, and *Wits* for adults later, the way OLLY's name stretches.
-- **It works for kids:** a fox or owl mascot (quick-witted), "Witty" stickers, and a "Wit Kit" first box.
-- **It feels evidence-based:** short, smart and not cutesy. It sits next to "Made with Bacozest®, studied in kids" without clashing.
-- *Watch-outs:* "wits' end" is negative if it's overused. Use it as a hook, not a tagline. Also check that "Wits" isn't read as a cure claim on the pack ("supports focus and calm" stays the claim).
+*\*Ownability is my judgment from quick web searches only, which found no kids' supplement brands named Wayfinder, Field Day, Rally, Huddle or Lookout. **It is not trademark clearance.** A trademark attorney should run a USPTO knockout search (Class 5: supplements; Class 35: retail), plus domain, social handle and Amazon checks, before any spend.*
 
-### Tagline and product name directions (for any chosen name)
-- "Focus and calm, studied in kids."
-- "Better days, together."
+### Why Wayfinder is the lead master-brand recommendation
+- **It keeps the concept you like:** the explorer, scouting spirit, without borrowing the Scouting organizations' word.
+- **It fits every category:** "finding your way" works for focus (homework), sleep (bedtime), immunity (the school year) and sport (game day). Each product is *gear for the journey*.
+- **It grows with the child:** it's adventurous for a 7-year-old, aspirational for a 15-year-old, and credible for adults. Teens are literally finding their way.
+- **It builds trust:** a wayfinder is a guide. That fits the "proof, not promises" voice and the pediatrician one-pager.
+- **It works for kids:** a trail map reward chart, "badges" for each product, and a compass or North Star mascot. Most of the Scouts ideas carry over.
+- *Watch-outs:* three syllables is longer than Hiya or OLLY, so test it out loud with kids. It also needs a full trademark check, because "wayfinder" is a common word in software and travel, though we found nothing in supplements.
+
+### If the team still wants "Scout"
+Use the **singular** (*Scout Wits Focus & Calm*, *Scout Sleep*), run legal clearance **first**, and keep all creative clear of uniforms, badges that look like scouting insignia, and troop language, so nobody reads it as a Scouting endorsement. A middle path: use **Wayfinder** as the master brand and **Scout as the mascot** (a curious fox or owl who earns badges with the kids).
+
+### Taglines (fit every category)
+- "Gear for growing up."
 - "Proof, not promises."
-- Product descriptor pattern (Hiya/OLLY style): **[Brand] + benefit + format**, e.g., *[Brand] Focus & Calm Daily Stick*, with the flavors named by kids.
+- "Better days, together."
+- For the hero product: "Focus and calm, studied in kids." / "For families at their wits' end."
 
 ---
 
 ## 7. Recommended next steps (fits the October Foundation phase)
 
-1. **This week:** The team cuts the list to three names (suggested: **Wits, Scout(s), Keel**). A legal knockout search runs on all three at the same time.
+1. **This week:** The team cuts the list to three master-brand names (suggested: **Wayfinder, Scout, Field Day**) and agrees on **Wits** as the hero product name. A legal knockout search runs on all four at the same time.
 2. **Weeks 2–3: market test (Pittman method).** Run identical cold Meta ads where only the name, logo and pack mockup change. Use $300–500 per name, aimed at parents of 6–12 year olds. Measure click-through, cost per landing-page sign-up, and a one-question poll ("Which would you trust for your child?"). In parallel, show five or six kids from employee families the packs and ask which one they'd want.
 3. **Week 4:** Pick the name. File the trademark (needed for Amazon Brand Registry), lock the domain and social handles, and brief the designer on the master brand plus descriptor system.
 4. **Update Phase 2** with OLLY Focus Buddies and Mellow Buddies, and keep an eye on Hiya (a likely future entrant into focus, with a million-parent customer base).
@@ -162,3 +174,4 @@
 - OLLY: [Wikipedia, Olly (company)](https://en.wikipedia.org/wiki/Olly_(company)) · [Fritinancy, Olly naming](https://fritinancy.substack.com/p/olly-olli-ollie-olipop) · [NutritionInsight, Unilever acquires OLLY](https://www.nutritioninsight.com/news/Unilever-banks-on-health-and-wellness-trend-as-it-acquires-functional-food-and-supplement-business-OLLY.html) · [Unilever, health & wellbeing business](https://www.unilever.com/news/news-search/2022/introducing-our-fastgrowing-health-wellbeing-business/) · [Marketing-Interactive, Hong Kong launch](https://www.marketing-interactive.com/unilever-s-olly-takes-youthful-route-for-go-to-market-strategy-in-hong-kong) · [Retail Brew, OLLY gets brainy](https://retailbrew.com/stories/2024/04/02/olly-gets-brainy-with-new-cognitive-supplement-line) · [Drug Store News, cognitive line](https://drugstorenews.com/olly-launches-cognitive-focused-supplements-line) · [Stack3d, Brainy L'Olly Pops](https://www.stack3d.com/2024/04/brainy-lolly-pops/) · [Desirability Lab, OLLY design](https://desirabilitylab.com/backfill/backfill-2023-224-olly-gummy-vitamins)
 - Molly Pittman: [Smart Marketer, new CEO](https://smartmarketer.com/molly-pittman-is-smart-marketers-new-ceo/) · [How to manage & scale your marketing](https://smartmarketer.com/how-to-manage-and-scale-your-marketing-smart-business-systems/) · [6 growth strategies](https://smartmarketer.com/6-growth-strategies/) · [The Ecom Show #197](https://shows.acast.com/theecomshow/episodes/197-molly-pittman-from-smart-marketer) · [Marketing Speak, paid traffic shift](https://www.marketingspeak.com/the-paid-traffic-tectonic-shift-with-molly-pittman/) · [Paid Traffic Mastery review](https://freeaffiliatemarketingbusiness.com/paid-traffic-mastery-review-molly-pittman/) · [Smart Marketer Agency](https://smartmarketeragency.com/)
 - Scouts trademark context: [NPR, Girl Scouts sue Boy Scouts](https://www.npr.org/2018/11/07/665308785/girl-scouts-of-the-usa-) · [Quinn Emanuel, Boy Scouts trademark victory](https://www.quinnemanuel.com/the-firm/victories/trademark-victory-for-boy-scouts-of-america/) · [Justia, SCOUT (Class 5, abandoned)](https://trademark.justia.com/850/13/scout-85013754.html) · [Justia, NUTRASCOUT](https://trademark.justia.com/867/77/nutrascout-86777443.html)
+- Name conflict checks: [HBW Insight, Wren Labs kids probiotic gummies](https://hbw.citeline.com/RS152248/UKs-Wren-Labs-Launches-Grown-Up-Version-Of-Successful-Kids-Probiotic-Gummies)
