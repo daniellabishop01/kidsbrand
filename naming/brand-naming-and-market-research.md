@@ -141,6 +141,57 @@ Name the hero product (e.g., **Wits**) so it can build its own reputation, the w
 
 *\*Ownability is my judgment from quick web searches only, which found no kids' supplement brands named Wayfinder, Field Day, Rally, Huddle or Lookout. **It is not trademark clearance.** A trademark attorney should run a USPTO knockout search (Class 5: supplements; Class 35: retail), plus domain, social handle and Amazon checks, before any spend.*
 
+### More ideas: fun and short (1–2 syllables)
+
+Each name is shown with the hero product, to check that *[Brand] Wits* and *[Brand] Sleep* both sound right.
+⭐ = my favorites · ⚠️ = a conflict I know of · Ownability is from quick searches only, not legal clearance.
+
+**Adventure (keeps the Scouts idea)**
+| Name | Story | Hero product | Notes |
+|---|---|---|---|
+| **Yonder** ⭐ | "Off into the wild blue yonder." Curiosity, big futures, adventure. Fun to say and sounds a little old-fashioned. | *Yonder Wits* | No supplement brands found. It fits teens and adults too. |
+| **Romp** ⭐ | Playful, energetic fun outdoors. | *Romp Wits*, *Romp Sleep* | No supplement brands found. Might read as too energetic for sleep and calm products, so test it. |
+| **Roam** | Freedom, exploring. | *Roam Wits* | Common word, so expect many trademarks in other categories. |
+| **Rove** | A wanderer and explorer. | *Rove Wits* | Short and cool for teens, less warm for kids. |
+| **Ahoy** | An explorer's greeting, the way "Hiya" is a greeting. | *Ahoy Wits* | ⚠️ Chips Ahoy! and the Dutch grocer Albert Heijn's "AH" brand make it feel borrowed. |
+
+**Upbeat words**
+| Name | Story | Hero product | Notes |
+|---|---|---|---|
+| **Pluck** ⭐ | Courage and spirit ("she's got pluck"). Grit with a smile. | *Pluck Wits* | No supplement brands found. A strong, unusual word. Check that it doesn't read as "pluck feathers" to kids. |
+| **Spry** | Lively and quick. | *Spry Wits* | ⚠️ *Spry* is an existing xylitol gum and mint brand (Xlear). Likely blocked. |
+| **Keen** | Eager and sharp-minded. | *Keen Wits* | ⚠️ KEEN is a big footwear brand. Different trademark class, but the confusion and search competition are real. |
+| **Chipper** | Cheerful and bright. | *Chipper Wits* | Very kid-friendly, but teens may find it corny. |
+| **Gusto** | Enthusiasm and zest for life. | *Gusto Wits* | Common in food and drink. |
+| **Hooray** | Cheering, celebrating small wins (the reward chart). | *Hooray Wits* | Hooray Foods (plant-based bacon) exists. Very kid, less teen. |
+| **Moxie** | Nerve, spirit, can-do attitude. | *Moxie Wits* | ⚠️ Moxie is a soda brand (Coca-Cola), and the name is widely used. |
+
+**Animal or mascot names** (the name *is* the mascot)
+| Name | Story | Hero product | Notes |
+|---|---|---|---|
+| **Otter** ⭐ | Playful, curious and clever, but also calm. Otters hold hands while they sleep, which fits "better days, together" and works for focus and sleep alike. | *Otter Wits*, *Otter Sleep* | No supplement brands found. ⚠️ Otter.ai (software) dominates search. Huge mascot potential. |
+| **Fox** | Clever and quick. | *Fox Wits* | Widely used (Fox media). Better as the mascot than the brand. |
+| **Finch** | A small, bright songbird. | *Finch Wits* | Clean and modern, and it works for teens. Several apps already use the name. |
+| **Owlet** | A wise little owl. | — | ⚠️ Owlet is a baby monitor brand. Avoid. |
+
+**Growing names** (nature)
+| Name | Story | Hero product | Notes |
+|---|---|---|---|
+| **Sprig** ⭐ | A young, growing shoot: fresh, green, healthy. | *Sprig Wits* | No supplement brands found. A good fit for greens and gut products. It fits teens better than "Sprout". |
+| **Acorn** | Little now, an oak later: a growth story. | *Acorn Wits* | ⚠️ Acorns (investing app) and Acorn TV. Crowded. |
+| **Clover** | Lucky. Four leaves could stand for the four brand pillars. | *Clover Wits* | ⚠️ Clover (payments) and many other uses. |
+| **Pip** | A small seed with big potential. Also the "pip-pip!" cheer. | *Pip Wits* | No supplement brands found. Very short and cute. May feel too small for teens. |
+
+**Made-up words** (OLLY/Hiya style: no fixed meaning, easy to own)
+| Name | Story | Hero product | Notes |
+|---|---|---|---|
+| **Juni** | Sounds like "junior" and "June": sunny and young without saying "kids". | *Juni Wits* | Very ownable. "Junior" might limit teens slightly. |
+| **Koda** | Means "friend" or "ally" in Lakota. | *Koda Wits* | ⚠️ Borrowed from an Indigenous language, so it needs a cultural sensitivity review. Also used in tech. |
+| **Lumo** | Light and clarity. | *Lumo Wits* | Some lighting and tech brands use it. |
+| **Zuzu** | Bouncy and joyful. | *Zuzu Wits* | Some beauty brands use "Zuzu Luxe". Very kid, less teen. |
+
+**My top five fun picks for the master brand:** **Yonder, Otter, Pluck, Sprig, Romp.** Each one fits the hero product (*Yonder Wits*, *Otter Wits*), stretches to sleep, immunity and greens, and none showed up as a supplement brand in quick searches. Run them through the same trademark knockout search and Meta name test alongside Wayfinder.
+
 ### Why Wayfinder is the lead master-brand recommendation
 - **It keeps the concept you like:** the explorer, scouting spirit, without borrowing the Scouting organizations' word.
 - **It fits every category:** "finding your way" works for focus (homework), sleep (bedtime), immunity (the school year) and sport (game day). Each product is *gear for the journey*.
