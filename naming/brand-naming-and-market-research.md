@@ -264,6 +264,69 @@ Same rules: short, playful, intentional, works for every product category, and g
 
 **My top picks from this round:** **Kite, Lantern, Doodle, Pogo, Crew.**
 
+### Round 4: more fresh directions
+
+**Words kids say** (the moment something goes right)
+| Name | Why it's intentional | Notes |
+|---|---|---|
+| **Ta-da** ⭐ | The moment of "I did it!": homework done, slept through the night. It celebrates small wins and pairs perfectly with the reward chart. | No supplement brands found. Some apps use "Tada". Teens can say it with a wink. |
+| **Bingo** | "Got it!", the click of understanding. | ⚠️ *Bingo* is Bluey's sister, and Bluey is a huge kids' licensing brand. Avoid. |
+| **Voilà** | A grown-up version of ta-da. | Hard to spell and say for 6-year-olds. |
+| **Easy Peasy** | Makes daily health easy. | Widely used. Not ownable. |
+
+**Personal names** (give the brand a personality, the way OLLY does)
+| Name | Why it's intentional | Notes |
+|---|---|---|
+| **Ziggy** ⭐ | Zig-zag energy and a curious, quirky friend. Both a person and a mascot. | No supplement brands found. Fun at any age. |
+| **Juno** | Bright, friendly, slightly cosmic. Easy to say, easy to remember. | No supplement brands found, but widely used elsewhere (a film, apps). |
+| **Otis** | A warm, trusty old friend. | ⚠️ Otis elevators and Otis Spunkmeyer cookies. |
+| **Gus** | Short, lovable, a buddy. | Very ownable as a mascot; thinner as a brand. |
+| ~~Milo~~ | | ⚠️ Nestlé's *Milo* kids' drink. Avoid. |
+
+**Movement**
+| Name | Why it's intentional | Notes |
+|---|---|---|
+| **Skip** ⭐ | Skipping is joy in motion, and it doubles as "skip the struggle". | A common word that needs a distinctive logo. ⚠️ Check "Skip" in delivery apps. |
+| **Scoot** | Scooters, getting going, kid freedom. | ⚠️ Scoot (the Singapore airline). |
+| **Hopper** | Bouncy, playful; a little hopper. | Slightly young for teens. |
+| ~~Bounce / Zoom~~ | | ⚠️ Bounce dryer sheets, Zoom. Avoid. |
+
+**Rhythm and routine** (fits a daily habit)
+| Name | Why it's intentional | Notes |
+|---|---|---|
+| **Groove** ⭐ | "Get into your groove": focus, flow and calm, plus a steady daily routine. Teens like it, kids like dancing to it. | No kids' supplement brands found. A common word, so the logo needs to be distinctive. |
+| **Hum** | Things are humming along: calm and steady. | Hum Nutrition is an adult supplement brand. ⚠️ Avoid. |
+| ~~Rhythm / Tempo~~ | | ⚠️ Rhythm Superfoods snacks, Tempo fitness. |
+
+**Sky and space**
+| Name | Why it's intentional | Notes |
+|---|---|---|
+| **Cosmo** | Curiosity about the universe. Fun and space-y. | ⚠️ *Cosmopolitan* magazine. |
+| **Moonbeam** | Gentle light, and a natural fit for sleep. | Lovely, but two words and leans sleepy. Better as a product name (*[Brand] Moonbeam Sleep*). |
+| ~~Starling~~ | Small star, and a bird whose flocks move together. | ⚠️ A **STARLING** trademark for **multivitamin supplements** was filed in 2018. Avoid. |
+| ~~Orbit / Comet / Rocket~~ | | ⚠️ Orbit gum, Comet cleaner, Rocket used widely. |
+
+**Little superpowers**
+| Name | Why it's intentional | Notes |
+|---|---|---|
+| **Cape** ⭐ | Every kid's everyday superpower. Short, bold, iconic logo. Teens can wear it too. | No supplement brands found. Keep claims modest: it's a **cape**, not a cure. |
+| **Whiz** | Whiz kid: quick and clever. | ⚠️ Cheez Whiz. Leans "brain only". |
+
+**Wish and luck**
+| Name | Why it's intentional | Notes |
+|---|---|---|
+| **Wishbone** | Make a wish; fun and lucky. | ⚠️ Wish-Bone salad dressing. |
+| **Dandelion** | Blow, make a wish, the seeds go everywhere: growth. | Beautiful, but four syllables. Better as a mascot or design element. |
+
+**Made-up / fun-to-say**
+| Name | Why it's intentional | Notes |
+|---|---|---|
+| **Bimble** ⭐ | British slang for wandering happily with no rush. It ties to the explorer and calm ideas. Fun and new to American ears. | No supplement brands found. Very ownable. You'd need to tell the word's story. |
+| **Hubbub** | Joyful chaos. | It celebrates the chaos parents want less of, so it works against the promise. |
+| ~~Bumble~~ | | ⚠️ Bumble dating app. |
+
+**My top picks from this round:** **Ta-da, Ziggy, Groove, Cape, Bimble.**
+
 ### Why Wayfinder is the lead master-brand recommendation
 - **It keeps the concept you like:** the explorer, scouting spirit, without borrowing the Scouting organizations' word.
 - **It fits every category:** "finding your way" works for focus (homework), sleep (bedtime), immunity (the school year) and sport (game day). Each product is *gear for the journey*.
@@ -297,4 +360,4 @@ Use the **singular** (*Scout Wits Focus & Calm*, *Scout Sleep*), run legal clear
 - OLLY: [Wikipedia, Olly (company)](https://en.wikipedia.org/wiki/Olly_(company)) · [Fritinancy, Olly naming](https://fritinancy.substack.com/p/olly-olli-ollie-olipop) · [NutritionInsight, Unilever acquires OLLY](https://www.nutritioninsight.com/news/Unilever-banks-on-health-and-wellness-trend-as-it-acquires-functional-food-and-supplement-business-OLLY.html) · [Unilever, health & wellbeing business](https://www.unilever.com/news/news-search/2022/introducing-our-fastgrowing-health-wellbeing-business/) · [Marketing-Interactive, Hong Kong launch](https://www.marketing-interactive.com/unilever-s-olly-takes-youthful-route-for-go-to-market-strategy-in-hong-kong) · [Retail Brew, OLLY gets brainy](https://retailbrew.com/stories/2024/04/02/olly-gets-brainy-with-new-cognitive-supplement-line) · [Drug Store News, cognitive line](https://drugstorenews.com/olly-launches-cognitive-focused-supplements-line) · [Stack3d, Brainy L'Olly Pops](https://www.stack3d.com/2024/04/brainy-lolly-pops/) · [Desirability Lab, OLLY design](https://desirabilitylab.com/backfill/backfill-2023-224-olly-gummy-vitamins)
 - Molly Pittman: [Smart Marketer, new CEO](https://smartmarketer.com/molly-pittman-is-smart-marketers-new-ceo/) · [How to manage & scale your marketing](https://smartmarketer.com/how-to-manage-and-scale-your-marketing-smart-business-systems/) · [6 growth strategies](https://smartmarketer.com/6-growth-strategies/) · [The Ecom Show #197](https://shows.acast.com/theecomshow/episodes/197-molly-pittman-from-smart-marketer) · [Marketing Speak, paid traffic shift](https://www.marketingspeak.com/the-paid-traffic-tectonic-shift-with-molly-pittman/) · [Paid Traffic Mastery review](https://freeaffiliatemarketingbusiness.com/paid-traffic-mastery-review-molly-pittman/) · [Smart Marketer Agency](https://smartmarketeragency.com/)
 - Scouts trademark context: [NPR, Girl Scouts sue Boy Scouts](https://www.npr.org/2018/11/07/665308785/girl-scouts-of-the-usa-) · [Quinn Emanuel, Boy Scouts trademark victory](https://www.quinnemanuel.com/the-firm/victories/trademark-victory-for-boy-scouts-of-america/) · [Justia, SCOUT (Class 5, abandoned)](https://trademark.justia.com/850/13/scout-85013754.html) · [Justia, NUTRASCOUT](https://trademark.justia.com/867/77/nutrascout-86777443.html)
-- Name conflict checks: [HBW Insight, Wren Labs kids probiotic gummies](https://hbw.citeline.com/RS152248/UKs-Wren-Labs-Launches-Grown-Up-Version-Of-Successful-Kids-Probiotic-Gummies) · [Justia, HEALTHY KIDS HAPPY KIDS](https://trademark.justia.com/880/37/healthy-kids-happy-88037599.html) · [Justia, Happy Families Ltd](https://trademark.justia.com/owners/happy-families-ltd-1076815) · [Apollo Pharmacy, Happi Kidz](https://apollopharmacy.in/otc/happi-kidz-75gm-strawberry-orange-flav-gummies-30-s) · [BevNET, Recess Mood powder](https://www.bevnet.com/news/2021/in-the-mood-recess-expands-relaxation-platform-with-new-drink-powder) · [Walmart, Firefly! Outdoor Gear](https://www.walmart.com/brand/fireflyoutdoorgear/kids-led-lanterns/10013957) · [Food Business News, Oodles of Doodles](https://www.foodbusinessnews.net/articles/29445-oodles-of-doodles-enters-us-market)
+- Name conflict checks: [HBW Insight, Wren Labs kids probiotic gummies](https://hbw.citeline.com/RS152248/UKs-Wren-Labs-Launches-Grown-Up-Version-Of-Successful-Kids-Probiotic-Gummies) · [Justia, HEALTHY KIDS HAPPY KIDS](https://trademark.justia.com/880/37/healthy-kids-happy-88037599.html) · [Justia, Happy Families Ltd](https://trademark.justia.com/owners/happy-families-ltd-1076815) · [Apollo Pharmacy, Happi Kidz](https://apollopharmacy.in/otc/happi-kidz-75gm-strawberry-orange-flav-gummies-30-s) · [BevNET, Recess Mood powder](https://www.bevnet.com/news/2021/in-the-mood-recess-expands-relaxation-platform-with-new-drink-powder) · [Walmart, Firefly! Outdoor Gear](https://www.walmart.com/brand/fireflyoutdoorgear/kids-led-lanterns/10013957) · [Food Business News, Oodles of Doodles](https://www.foodbusinessnews.net/articles/29445-oodles-of-doodles-enters-us-market) · [Justia, Starlingforce STARLING (multivitamins)](https://trademarks.justia.com/owners/starlingforce-co-ltd-3717979)
