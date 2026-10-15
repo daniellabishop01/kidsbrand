@@ -327,6 +327,60 @@ Same rules: short, playful, intentional, works for every product category, and g
 
 **My top picks from this round:** **Ta-da, Ziggy, Groove, Cape, Bimble.**
 
+### Round 5: more fresh directions
+
+**Character words** (the spirit we want kids to grow into)
+| Name | Why it's intentional | Notes |
+|---|---|---|
+| **Gumption** ⭐ | Spirit, grit and resourcefulness: "she's got gumption." Fun to say, a little old-fashioned, and full of character. It's about the kid, not the problem. | No supplement brands found. Three syllables, but they roll easily. |
+| **Wonderly** ⭐ | Wonder + "-ly": curiosity, awe, living wonderfully. Works for 6-year-olds and teens alike. | No supplement brands found. A made-up word, so it's easier to own. |
+| **Bravely** | Courage on hard days (tests, big feelings, new schools). | Lovely, but sounds more serious than playful. |
+
+**Fun-to-say double words** (rhyming and repeated sounds kids love)
+| Name | Why it's intentional | Notes |
+|---|---|---|
+| **Tiptop** ⭐ | "In tip-top shape": feeling your best in every category. Bouncy and cheerful, and parents say it already. | No supplement brands found. ⚠️ *Tip Top* bread (Australia) and ice cream (NZ). Different categories and countries, but check. |
+| **Hip Hip** | "Hip hip hooray!" A cheer for small wins. | Feels unfinished on its own. |
+| **Hoopla** | Fun, excitement, a celebration. | It's also a word for "a lot of fuss", which works against calm. |
+| ~~Zigzag~~ | | ⚠️ ZIG-ZAG rolling papers. **Avoid.** |
+
+**Kid hideouts** (safe, fun, built together)
+| Name | Why it's intentional | Notes |
+|---|---|---|
+| **Fort** | The pillow fort: a safe, cozy place a parent and kid build together. Short and strong. | A generic word, so it needs a distinctive logo. |
+| **Hideout** | Your secret calm place. | Could imply hiding from problems. |
+| ~~Treehouse~~ | | ⚠️ **Treehouse** (a Canadian kids' TV channel) already licensed a **children's vitamin line** (Webber Naturals). Avoid. |
+| ~~Clubhouse~~ | | ⚠️ Clubhouse app. |
+
+**Quirky, funny words**
+| Name | Why it's intentional | Notes |
+|---|---|---|
+| **Pickle** ⭐ | Kids love the word. "In a pickle" means stuck, and the brand helps you get unstuck. Pickleball makes it cool for teens and parents too. Surprising for supplements, which makes it memorable. | No kids' brands found. Nature Made did a limited pickle-flavored adult gummy, but only as a flavor. Bold. Test whether parents find it too silly for a studied product. |
+| **Noodle** | (From round 2.) "Use your noodle." | Education brands use it. |
+
+**Story and growing up**
+| Name | Why it's intentional | Notes |
+|---|---|---|
+| **Chapter** ⭐ | Every day is a new chapter, and the brand grows chapter by chapter, from kids to teens to adults. Fits bedtime stories (sleep) and school (focus). Smart and warm. | ⚠️ "Chapter" is used by some services (e.g., a Medicare advice company). Different category, but check. |
+| **Rookie** | Every kid is a rookie at something. Sports-family friendly, and teens understand it. | No supplement brands found. Could imply "beginner" for the teen line. |
+| **Gold Star** | The teacher's gold star, and a perfect match for the reward chart. | Two words and very common. Teens may find it childish. |
+
+**Nature with meaning**
+| Name | Why it's intentional | Notes |
+|---|---|---|
+| **Willow** ⭐ | Willows bend but don't break, a symbol of **resilience and calm**. Soft, graceful, and works for any age. | A popular name, so many small brands use it. Needs a distinctive logo. |
+| **Maple** | Warm, sturdy, sweet; fall colors at back-to-school time. | Many brands use it. |
+| ~~Plum~~ | | ⚠️ **Plum Organics** (kids' food). Avoid. |
+| ~~Saffron~~ | | ⚠️ I'm Nutrients, a competitor, is built on branded saffron. Avoid. |
+
+**Nicknames parents use** (*Bean, Peanut, Bug, Champ, Sport*): warm, but they **sound young**, and teens won't buy a brand that calls them "Peanut". Good for a sticker or mascot, not the master brand.
+
+**A name that nods to Bacozest:** *Zest* or *Zesty* would tie the brand to the hero ingredient (zest for life). But **we don't own the Bacozest name**, so the brand would depend on the supplier relationship. It also sounds energetic, which works against calm and sleep. Not recommended.
+
+**Avoid names about drifting off:** *Daydream*, *Drift* and similar sound lovely but suggest distraction, which is the opposite of the hero product's promise.
+
+**My top picks from this round:** **Gumption, Wonderly, Tiptop, Pickle, Chapter, Willow.**
+
 ### Why Wayfinder is the lead master-brand recommendation
 - **It keeps the concept you like:** the explorer, scouting spirit, without borrowing the Scouting organizations' word.
 - **It fits every category:** "finding your way" works for focus (homework), sleep (bedtime), immunity (the school year) and sport (game day). Each product is *gear for the journey*.
@@ -360,4 +414,4 @@ Use the **singular** (*Scout Wits Focus & Calm*, *Scout Sleep*), run legal clear
 - OLLY: [Wikipedia, Olly (company)](https://en.wikipedia.org/wiki/Olly_(company)) · [Fritinancy, Olly naming](https://fritinancy.substack.com/p/olly-olli-ollie-olipop) · [NutritionInsight, Unilever acquires OLLY](https://www.nutritioninsight.com/news/Unilever-banks-on-health-and-wellness-trend-as-it-acquires-functional-food-and-supplement-business-OLLY.html) · [Unilever, health & wellbeing business](https://www.unilever.com/news/news-search/2022/introducing-our-fastgrowing-health-wellbeing-business/) · [Marketing-Interactive, Hong Kong launch](https://www.marketing-interactive.com/unilever-s-olly-takes-youthful-route-for-go-to-market-strategy-in-hong-kong) · [Retail Brew, OLLY gets brainy](https://retailbrew.com/stories/2024/04/02/olly-gets-brainy-with-new-cognitive-supplement-line) · [Drug Store News, cognitive line](https://drugstorenews.com/olly-launches-cognitive-focused-supplements-line) · [Stack3d, Brainy L'Olly Pops](https://www.stack3d.com/2024/04/brainy-lolly-pops/) · [Desirability Lab, OLLY design](https://desirabilitylab.com/backfill/backfill-2023-224-olly-gummy-vitamins)
 - Molly Pittman: [Smart Marketer, new CEO](https://smartmarketer.com/molly-pittman-is-smart-marketers-new-ceo/) · [How to manage & scale your marketing](https://smartmarketer.com/how-to-manage-and-scale-your-marketing-smart-business-systems/) · [6 growth strategies](https://smartmarketer.com/6-growth-strategies/) · [The Ecom Show #197](https://shows.acast.com/theecomshow/episodes/197-molly-pittman-from-smart-marketer) · [Marketing Speak, paid traffic shift](https://www.marketingspeak.com/the-paid-traffic-tectonic-shift-with-molly-pittman/) · [Paid Traffic Mastery review](https://freeaffiliatemarketingbusiness.com/paid-traffic-mastery-review-molly-pittman/) · [Smart Marketer Agency](https://smartmarketeragency.com/)
 - Scouts trademark context: [NPR, Girl Scouts sue Boy Scouts](https://www.npr.org/2018/11/07/665308785/girl-scouts-of-the-usa-) · [Quinn Emanuel, Boy Scouts trademark victory](https://www.quinnemanuel.com/the-firm/victories/trademark-victory-for-boy-scouts-of-america/) · [Justia, SCOUT (Class 5, abandoned)](https://trademark.justia.com/850/13/scout-85013754.html) · [Justia, NUTRASCOUT](https://trademark.justia.com/867/77/nutrascout-86777443.html)
-- Name conflict checks: [HBW Insight, Wren Labs kids probiotic gummies](https://hbw.citeline.com/RS152248/UKs-Wren-Labs-Launches-Grown-Up-Version-Of-Successful-Kids-Probiotic-Gummies) · [Justia, HEALTHY KIDS HAPPY KIDS](https://trademark.justia.com/880/37/healthy-kids-happy-88037599.html) · [Justia, Happy Families Ltd](https://trademark.justia.com/owners/happy-families-ltd-1076815) · [Apollo Pharmacy, Happi Kidz](https://apollopharmacy.in/otc/happi-kidz-75gm-strawberry-orange-flav-gummies-30-s) · [BevNET, Recess Mood powder](https://www.bevnet.com/news/2021/in-the-mood-recess-expands-relaxation-platform-with-new-drink-powder) · [Walmart, Firefly! Outdoor Gear](https://www.walmart.com/brand/fireflyoutdoorgear/kids-led-lanterns/10013957) · [Food Business News, Oodles of Doodles](https://www.foodbusinessnews.net/articles/29445-oodles-of-doodles-enters-us-market) · [Justia, Starlingforce STARLING (multivitamins)](https://trademarks.justia.com/owners/starlingforce-co-ltd-3717979)
+- Name conflict checks: [HBW Insight, Wren Labs kids probiotic gummies](https://hbw.citeline.com/RS152248/UKs-Wren-Labs-Launches-Grown-Up-Version-Of-Successful-Kids-Probiotic-Gummies) · [Justia, HEALTHY KIDS HAPPY KIDS](https://trademark.justia.com/880/37/healthy-kids-happy-88037599.html) · [Justia, Happy Families Ltd](https://trademark.justia.com/owners/happy-families-ltd-1076815) · [Apollo Pharmacy, Happi Kidz](https://apollopharmacy.in/otc/happi-kidz-75gm-strawberry-orange-flav-gummies-30-s) · [BevNET, Recess Mood powder](https://www.bevnet.com/news/2021/in-the-mood-recess-expands-relaxation-platform-with-new-drink-powder) · [Walmart, Firefly! Outdoor Gear](https://www.walmart.com/brand/fireflyoutdoorgear/kids-led-lanterns/10013957) · [Food Business News, Oodles of Doodles](https://www.foodbusinessnews.net/articles/29445-oodles-of-doodles-enters-us-market) · [Justia, Starlingforce STARLING (multivitamins)](https://trademarks.justia.com/owners/starlingforce-co-ltd-3717979) · [License Global, Treehouse characters get vitamins](https://www.licenseglobal.com/beauty-cosmetics/treehouse-characters-get-vitamins) · [Business Wire, Nature Made pickle gummies](https://www.businesswire.com/news/home/20240403493505/en/Nature-Made%C2%AE-Serves-Up-Pickle-Flavored-Multivitamin-Gummies-to-Make-a-Huge-Dill-of-its-Favorite-Pastime-Pickleball)
