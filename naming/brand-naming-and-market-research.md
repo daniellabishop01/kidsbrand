@@ -192,6 +192,34 @@ Each name is shown with the hero product, to check that *[Brand] Wits* and *[Bra
 
 **My top five fun picks for the master brand:** **Yonder, Otter, Pluck, Sprig, Romp.** Each one fits the hero product (*Yonder Wits*, *Otter Wits*), stretches to sleep, immunity and greens, and none showed up as a supplement brand in quick searches. Run them through the same trademark knockout search and Meta name test alongside Wayfinder.
 
+### Plays on "happy"
+
+**Why "happy" is the right instinct:** happy is the result parents actually want, and it fits every category. The team called this "an anti-frustration product". A focused kid means happy homework time, good sleep means happy mornings, and good immunity means happy school days. A happy-themed name says why the brand exists without naming any one category or age.
+
+**The catch:** the word **"Happy" alone is crowded** in kids' food and supplements. Happy Family Organics (*Happy Baby*, *Happy Tot*, *Happy Kid*) is the big one, and Class 5 trademarks include *HEALTHY KIDS HAPPY KIDS*, *HAPPY FAMILIES* and *Happi Kidz* (an Indian kids' gummy brand). A **clever twist** on happy is both more distinctive and easier to own than "Happy ___".
+
+| Name | Story | Hero product | Notes |
+|---|---|---|---|
+| **Haps** ⭐ | Happy, shortened: "what's the haps?" Kids find it fun, and teens and parents already use the slang. It suggests happy without saying it. | *Haps Focus & Calm* | No supplement brands found (one old blog post mentions a "HAPS" mood product). Very short, and easy to turn into a logo. |
+| **Gladly** ⭐ | Glad and happy, and it answers the "my kid won't take it" worry: *kids take it gladly.* | *Gladly Focus & Calm* | No supplement brands found. ⚠️ Glad (bags) is a different category, but run a legal check. Warm and works for every age. |
+| **Happily** ⭐ | "Happily ever after": every day ends well. Feels like storytime for kids and grown-up enough for teens. | *Happily Focus & Calm* | Not checked yet. A common word, so the logo and visual style will need to make it distinctive. |
+| **Happy Camper** | Joins happy with your **Scouts/explorer** idea: camp, badges, adventure. | *Happy Camper Focus & Calm* | Not checked yet. It's a well-known phrase, so other categories (food, merchandise) probably use it. Two words, longer. |
+| **Hap** | An old English word for luck, and the root of *happy*, *happen* and *perhaps*. A meaningful story for anyone who asks. | *Hap Focus & Calm* | Very short and ownable. On its own it can sound like a typo, so it needs the story. |
+| **Happitude** | Happy + attitude: a positive outlook. | *Happitude Focus & Calm* | No supplement brands found. Fun, but four syllables, and it may feel gimmicky to teens. |
+| **Yippee** | Pure joy, said out loud. | *Yippee Focus & Calm* | Very kid-friendly, but teens may not want to say it. |
+| **Felix** | Latin for "happy, lucky", and a great mascot name (Felix the fox?). | *Felix Focus & Calm* | ⚠️ Purina's *Felix* cat food. Better as the **mascot** than the brand. |
+| ~~Happi / Hapi~~ | | | ⚠️ *Happi Kidz* (kids' gummies) and *Happi* (an industry trade magazine). Avoid. |
+| ~~Joy / Jolly / Grin / Smiley~~ | | | ⚠️ *JoySpring* (a direct competitor), Jolly Rancher, GRIN oral care, and The Smiley Company (which licenses the smiley face and enforces it actively). Avoid. |
+
+**Making it feel intentional, not just cute:** the name, the promise and the box should all tell one story.
+- **Promise:** "Happier days, together." This maps to the plan's fourth pillar, *Better days together*.
+- **Hero product:** e.g., *Haps Focus & Calm*. Ad hook: "Homework shouldn't be a battle. Here's to happier homework."
+- **First box:** a "Happy Days" reward chart, and stickers celebrating small wins ("Nailed homework!", "Slept great!").
+- **Teen line later:** the happy name grows up with the kids: *Haps Teen Study Days*, *Gladly Teen Sleep*.
+- **Compliance:** a happy-themed name is fine (OLLY's *Goodbye Stress* is an example), but pack and ad claims should stay with what the study measured ("supports focus and calm"). Don't make mood or anxiety claims for kids just because the name suggests one.
+
+**Top three happy names to test:** **Haps, Gladly, Happily.** Add *Happy Camper* if the team wants to keep the Scouts idea.
+
 ### Why Wayfinder is the lead master-brand recommendation
 - **It keeps the concept you like:** the explorer, scouting spirit, without borrowing the Scouting organizations' word.
 - **It fits every category:** "finding your way" works for focus (homework), sleep (bedtime), immunity (the school year) and sport (game day). Each product is *gear for the journey*.
@@ -225,4 +253,4 @@ Use the **singular** (*Scout Wits Focus & Calm*, *Scout Sleep*), run legal clear
 - OLLY: [Wikipedia, Olly (company)](https://en.wikipedia.org/wiki/Olly_(company)) · [Fritinancy, Olly naming](https://fritinancy.substack.com/p/olly-olli-ollie-olipop) · [NutritionInsight, Unilever acquires OLLY](https://www.nutritioninsight.com/news/Unilever-banks-on-health-and-wellness-trend-as-it-acquires-functional-food-and-supplement-business-OLLY.html) · [Unilever, health & wellbeing business](https://www.unilever.com/news/news-search/2022/introducing-our-fastgrowing-health-wellbeing-business/) · [Marketing-Interactive, Hong Kong launch](https://www.marketing-interactive.com/unilever-s-olly-takes-youthful-route-for-go-to-market-strategy-in-hong-kong) · [Retail Brew, OLLY gets brainy](https://retailbrew.com/stories/2024/04/02/olly-gets-brainy-with-new-cognitive-supplement-line) · [Drug Store News, cognitive line](https://drugstorenews.com/olly-launches-cognitive-focused-supplements-line) · [Stack3d, Brainy L'Olly Pops](https://www.stack3d.com/2024/04/brainy-lolly-pops/) · [Desirability Lab, OLLY design](https://desirabilitylab.com/backfill/backfill-2023-224-olly-gummy-vitamins)
 - Molly Pittman: [Smart Marketer, new CEO](https://smartmarketer.com/molly-pittman-is-smart-marketers-new-ceo/) · [How to manage & scale your marketing](https://smartmarketer.com/how-to-manage-and-scale-your-marketing-smart-business-systems/) · [6 growth strategies](https://smartmarketer.com/6-growth-strategies/) · [The Ecom Show #197](https://shows.acast.com/theecomshow/episodes/197-molly-pittman-from-smart-marketer) · [Marketing Speak, paid traffic shift](https://www.marketingspeak.com/the-paid-traffic-tectonic-shift-with-molly-pittman/) · [Paid Traffic Mastery review](https://freeaffiliatemarketingbusiness.com/paid-traffic-mastery-review-molly-pittman/) · [Smart Marketer Agency](https://smartmarketeragency.com/)
 - Scouts trademark context: [NPR, Girl Scouts sue Boy Scouts](https://www.npr.org/2018/11/07/665308785/girl-scouts-of-the-usa-) · [Quinn Emanuel, Boy Scouts trademark victory](https://www.quinnemanuel.com/the-firm/victories/trademark-victory-for-boy-scouts-of-america/) · [Justia, SCOUT (Class 5, abandoned)](https://trademark.justia.com/850/13/scout-85013754.html) · [Justia, NUTRASCOUT](https://trademark.justia.com/867/77/nutrascout-86777443.html)
-- Name conflict checks: [HBW Insight, Wren Labs kids probiotic gummies](https://hbw.citeline.com/RS152248/UKs-Wren-Labs-Launches-Grown-Up-Version-Of-Successful-Kids-Probiotic-Gummies)
+- Name conflict checks: [HBW Insight, Wren Labs kids probiotic gummies](https://hbw.citeline.com/RS152248/UKs-Wren-Labs-Launches-Grown-Up-Version-Of-Successful-Kids-Probiotic-Gummies) · [Justia, HEALTHY KIDS HAPPY KIDS](https://trademark.justia.com/880/37/healthy-kids-happy-88037599.html) · [Justia, Happy Families Ltd](https://trademark.justia.com/owners/happy-families-ltd-1076815) · [Apollo Pharmacy, Happi Kidz](https://apollopharmacy.in/otc/happi-kidz-75gm-strawberry-orange-flav-gummies-30-s)
