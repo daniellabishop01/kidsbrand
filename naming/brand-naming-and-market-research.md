@@ -513,6 +513,65 @@ For example, ***Lofty Clear Skies: Focus & Calm*** or ***Skylark Moonbeam: Sleep
 
 **My top picks:** **Up Top, Props, Encore**, along with **Kudo** and **High Five**.
 
+### Fun to say, like OLLY and Hiya (with a nutrition hint)
+
+*Feedback: names that **sound** like OLLY and Hiya (two bouncy syllables, often ending in "-y", "-ie" or "-a") and ideally carry a **nutrition or wellness hint**.*
+
+**What makes OLLY and Hiya fun to say:** two syllables, an open, smiley vowel ("oh", "ee", "ah"), soft consonants, and the sound of a friend's name or a greeting. Neither name says "vitamin", but both feel healthy because of the packaging and the products.
+
+**Food and wellness words ending in "-y"**
+| Name | Why it's intentional | Notes |
+|---|---|---|
+| **Hearty** ⭐ | A *hearty* meal is nourishing, a *hearty* laugh is joyful, and a *hearty* kid is strong. Nutrition, warmth and fun in one word, with a heart logo. | No kids' supplement brands found. Some food brands use the word. Works for teens and adults. |
+| **Peachy** ⭐ | "Everything's peachy!" means all good. Fruit = real nutrition. Sweet, cheerful, and teens use it too. | No supplement brands found (Wampole sells a peach-*flavored* kids' multi, but that's a flavor, not a brand). Peach color palette built in. |
+| **Kiwi** | A fruit **and** a small, tough, curious bird, so it's a mascot too. Fun to say. | ⚠️ KIWI shoe polish, and it's New Zealand's nickname. Different category, but check. |
+| **Plenty** | Abundance: everything a growing body needs. | ⚠️ Plenty paper towels (UK) and Plenty (vertical farming). |
+| ~~Welly~~ / ~~Wellie~~ | Being well, plus rain boots. A perfect fit… | ⚠️ **Welly** is a first-aid brand founded by **OLLY's founder** and now owned by **Unilever (OLLY's parent)**. Avoid. |
+| ~~Juicy~~ | | ⚠️ Juicy Juice (a kids' drink). |
+| ~~Thrivy~~ | | ⚠️ Would be confused with **Thrive Market**, one of your planned sales channels. |
+| ~~Zesty~~ | | Ties the brand to the Bacozest supplier, and sounds like energy. |
+| ~~Chewy~~ / ~~Oaty~~ / ~~Goody~~ | | ⚠️ Chewy (pet retailer), Oatly, Goody (hair accessories). |
+
+**Greetings** (Hiya-style: the brand says hello)
+| Name | Why it's intentional | Notes |
+|---|---|---|
+| **Heyo** ⭐ | "Hey-oh!", a cheerful, bouncy hello. Same friendly spirit as Hiya without copying it. | No supplement brands found. Different enough from Hiya ("Hey-oh" vs. "Hi-ya"), but a lawyer should judge how close it is. |
+| **Howdy** | A warm, friendly hello with a little cowboy fun. | Southern charm (fits the Upstate SC launch!). It may feel regional elsewhere. |
+| ~~Heya~~ | | Too close to **Hiya**, a direct competitor. Avoid. |
+| ~~Aloha~~ | | ⚠️ **ALOHA** is an existing protein and supplement brand. |
+
+**Exclamations** (wonder and delight)
+| Name | Why it's intentional | Notes |
+|---|---|---|
+| **Wowie** ⭐ | "Wowie!", wonder and delight in one fun word. Two syllables ending in "-ie", just like OLLY's rhythm. | No supplement brands found. Very playful. Teens might say it ironically, which can still work. |
+| **Zowie** | The same, with comic-book "POW!" energy. | Sounds energetic, so it's less natural for calm and sleep products. |
+
+**Friendly names** (OLLY-style "a friend")
+| Name | Why it's intentional | Notes |
+|---|---|---|
+| **Dottie** ⭐ | Polka dots, playful, plus "dotty" = delightfully quirky. The dot becomes the logo, so each product can be a different colored dot. | No supplement brands found. Sounds like a grandma's name, which is charming and retro. |
+| **Ziggy** | (From round 4.) A curious, quirky friend. | No supplement brands found. |
+| **Rosie** | (From the short-names round.) A rosy outlook, can-do spirit. | Popular name. |
+| ~~Libby~~ / ~~Poppy~~ | | ⚠️ Libby's foods, Poppi soda. |
+
+**Coined vitamin words** (sound healthy, but this space is crowded)
+| Name | Notes |
+|---|---|
+| ~~Vitty~~ | ⚠️ *Kiddy Vitty* (kids' multivitamins, Russia) and *Viteey* kids' gummies. Avoid. |
+| ~~Vida~~ | ⚠️ *Vida* kids' gummy multivitamins (Finland). Avoid. |
+| ~~Vivi~~ | ⚠️ Too close to *Vivio Junior* kids' gummies. Avoid. |
+| ~~Yumi~~ | ⚠️ **Yumi** is a US baby and kids' food brand. Avoid. |
+| ~~Nouri~~ | ⚠️ **Nouri** is a gut-health supplement brand. Avoid. |
+
+**Lesson:** made-up "vita-" words are where everyone goes, so they're crowded and hard to own. **Real words with a smile in them** (Hearty, Peachy, Wowie) are more distinctive, just as "OLLY" and "Hiya" don't say "vitamin" either.
+
+**How it reads on the hero product:**
+- *Hearty Focus & Calm* · *Hearty Sleep* · *Hearty Teen*
+- *Peachy Focus & Calm*: "Homework? Peachy."
+- *Wowie Focus & Calm*: "Wowie, what a day."
+
+**My top picks:** **Hearty, Peachy, Wowie, Heyo, Dottie.**
+
 ### Why Wayfinder is the lead master-brand recommendation
 - **It keeps the concept you like:** the explorer, scouting spirit, without borrowing the Scouting organizations' word.
 - **It fits every category:** "finding your way" works for focus (homework), sleep (bedtime), immunity (the school year) and sport (game day). Each product is *gear for the journey*.
@@ -546,4 +605,4 @@ Use the **singular** (*Scout Wits Focus & Calm*, *Scout Sleep*), run legal clear
 - OLLY: [Wikipedia, Olly (company)](https://en.wikipedia.org/wiki/Olly_(company)) · [Fritinancy, Olly naming](https://fritinancy.substack.com/p/olly-olli-ollie-olipop) · [NutritionInsight, Unilever acquires OLLY](https://www.nutritioninsight.com/news/Unilever-banks-on-health-and-wellness-trend-as-it-acquires-functional-food-and-supplement-business-OLLY.html) · [Unilever, health & wellbeing business](https://www.unilever.com/news/news-search/2022/introducing-our-fastgrowing-health-wellbeing-business/) · [Marketing-Interactive, Hong Kong launch](https://www.marketing-interactive.com/unilever-s-olly-takes-youthful-route-for-go-to-market-strategy-in-hong-kong) · [Retail Brew, OLLY gets brainy](https://retailbrew.com/stories/2024/04/02/olly-gets-brainy-with-new-cognitive-supplement-line) · [Drug Store News, cognitive line](https://drugstorenews.com/olly-launches-cognitive-focused-supplements-line) · [Stack3d, Brainy L'Olly Pops](https://www.stack3d.com/2024/04/brainy-lolly-pops/) · [Desirability Lab, OLLY design](https://desirabilitylab.com/backfill/backfill-2023-224-olly-gummy-vitamins)
 - Molly Pittman: [Smart Marketer, new CEO](https://smartmarketer.com/molly-pittman-is-smart-marketers-new-ceo/) · [How to manage & scale your marketing](https://smartmarketer.com/how-to-manage-and-scale-your-marketing-smart-business-systems/) · [6 growth strategies](https://smartmarketer.com/6-growth-strategies/) · [The Ecom Show #197](https://shows.acast.com/theecomshow/episodes/197-molly-pittman-from-smart-marketer) · [Marketing Speak, paid traffic shift](https://www.marketingspeak.com/the-paid-traffic-tectonic-shift-with-molly-pittman/) · [Paid Traffic Mastery review](https://freeaffiliatemarketingbusiness.com/paid-traffic-mastery-review-molly-pittman/) · [Smart Marketer Agency](https://smartmarketeragency.com/)
 - Scouts trademark context: [NPR, Girl Scouts sue Boy Scouts](https://www.npr.org/2018/11/07/665308785/girl-scouts-of-the-usa-) · [Quinn Emanuel, Boy Scouts trademark victory](https://www.quinnemanuel.com/the-firm/victories/trademark-victory-for-boy-scouts-of-america/) · [Justia, SCOUT (Class 5, abandoned)](https://trademark.justia.com/850/13/scout-85013754.html) · [Justia, NUTRASCOUT](https://trademark.justia.com/867/77/nutrascout-86777443.html)
-- Name conflict checks: [HBW Insight, Wren Labs kids probiotic gummies](https://hbw.citeline.com/RS152248/UKs-Wren-Labs-Launches-Grown-Up-Version-Of-Successful-Kids-Probiotic-Gummies) · [Justia, HEALTHY KIDS HAPPY KIDS](https://trademark.justia.com/880/37/healthy-kids-happy-88037599.html) · [Justia, Happy Families Ltd](https://trademark.justia.com/owners/happy-families-ltd-1076815) · [Apollo Pharmacy, Happi Kidz](https://apollopharmacy.in/otc/happi-kidz-75gm-strawberry-orange-flav-gummies-30-s) · [BevNET, Recess Mood powder](https://www.bevnet.com/news/2021/in-the-mood-recess-expands-relaxation-platform-with-new-drink-powder) · [Walmart, Firefly! Outdoor Gear](https://www.walmart.com/brand/fireflyoutdoorgear/kids-led-lanterns/10013957) · [Food Business News, Oodles of Doodles](https://www.foodbusinessnews.net/articles/29445-oodles-of-doodles-enters-us-market) · [Justia, Starlingforce STARLING (multivitamins)](https://trademarks.justia.com/owners/starlingforce-co-ltd-3717979) · [Justia, Blue Sky Nutrition](https://trademark.justia.com/owners/blue-sky-nutrition-llc-4836053) · [CB Insights, Blue Sky Vitamin](https://www.cbinsights.com/company/blue-sky-vitamin) · [Exercise.com, Nimbus Nutrition](https://exercise.com/companies/nimbus-nutrition) · [Bean Stalk Snow, brand](https://beanstalksnow.co.jp/english/brand) · [Tippy Toes pediatric shake listing](https://orderacme.rmrdevelopment.com/product/00036800406254/tippy-toes-pediatric-shake-vanilla) · [Thingtesting, Tiny Wins](https://thingtesting.com/brands/tiny-wins) · [Mumzworld, YaYa Vitamins](https://www.mumzworld.com/jo-en/brands/yaya-vitamins) · [Pharmacity, Kudos range](https://www.pharmacity.vn/thuong-hieu/kudos) · [NovaFerrum kids multivitamin listing](https://www.alaniazapoved.ru/products/novaferrum-mmm-multivitamin-for-kids-infants-and-toddlers-vi/200886504) · [KidStar Nutrients, StarMulti](https://www.amritanutrition.co.uk/products/starmulti-kids-multivitamin-60-chewable-tablets-kidstar-nutrients) · [License Global, Treehouse characters get vitamins](https://www.licenseglobal.com/beauty-cosmetics/treehouse-characters-get-vitamins) · [Business Wire, Nature Made pickle gummies](https://www.businesswire.com/news/home/20240403493505/en/Nature-Made%C2%AE-Serves-Up-Pickle-Flavored-Multivitamin-Gummies-to-Make-a-Huge-Dill-of-its-Favorite-Pastime-Pickleball)
+- Name conflict checks: [HBW Insight, Wren Labs kids probiotic gummies](https://hbw.citeline.com/RS152248/UKs-Wren-Labs-Launches-Grown-Up-Version-Of-Successful-Kids-Probiotic-Gummies) · [Justia, HEALTHY KIDS HAPPY KIDS](https://trademark.justia.com/880/37/healthy-kids-happy-88037599.html) · [Justia, Happy Families Ltd](https://trademark.justia.com/owners/happy-families-ltd-1076815) · [Apollo Pharmacy, Happi Kidz](https://apollopharmacy.in/otc/happi-kidz-75gm-strawberry-orange-flav-gummies-30-s) · [BevNET, Recess Mood powder](https://www.bevnet.com/news/2021/in-the-mood-recess-expands-relaxation-platform-with-new-drink-powder) · [Walmart, Firefly! Outdoor Gear](https://www.walmart.com/brand/fireflyoutdoorgear/kids-led-lanterns/10013957) · [Food Business News, Oodles of Doodles](https://www.foodbusinessnews.net/articles/29445-oodles-of-doodles-enters-us-market) · [Justia, Starlingforce STARLING (multivitamins)](https://trademarks.justia.com/owners/starlingforce-co-ltd-3717979) · [Justia, Blue Sky Nutrition](https://trademark.justia.com/owners/blue-sky-nutrition-llc-4836053) · [CB Insights, Blue Sky Vitamin](https://www.cbinsights.com/company/blue-sky-vitamin) · [Exercise.com, Nimbus Nutrition](https://exercise.com/companies/nimbus-nutrition) · [Bean Stalk Snow, brand](https://beanstalksnow.co.jp/english/brand) · [Tippy Toes pediatric shake listing](https://orderacme.rmrdevelopment.com/product/00036800406254/tippy-toes-pediatric-shake-vanilla) · [Beauty Independent, Unilever acquires Welly](https://www.beautyindependent.com/eric-ryan-sells-a-third-brand-unilever-acquisition-welly/) · [Kärkkäinen, Vida kids multivitamin](https://www.karkkainen.com/en/vida-nalle-multivitamin-strawberry-120-pcs-food-supplement) · [RLS, Kiddy Vitty](https://www.rlsnet.ru/baa/kiddy-vitty-multivitaminy-vkusnaya-formula-zdorovya-74865) · [Thingtesting, Tiny Wins](https://thingtesting.com/brands/tiny-wins) · [Mumzworld, YaYa Vitamins](https://www.mumzworld.com/jo-en/brands/yaya-vitamins) · [Pharmacity, Kudos range](https://www.pharmacity.vn/thuong-hieu/kudos) · [NovaFerrum kids multivitamin listing](https://www.alaniazapoved.ru/products/novaferrum-mmm-multivitamin-for-kids-infants-and-toddlers-vi/200886504) · [KidStar Nutrients, StarMulti](https://www.amritanutrition.co.uk/products/starmulti-kids-multivitamin-60-chewable-tablets-kidstar-nutrients) · [License Global, Treehouse characters get vitamins](https://www.licenseglobal.com/beauty-cosmetics/treehouse-characters-get-vitamins) · [Business Wire, Nature Made pickle gummies](https://www.businesswire.com/news/home/20240403493505/en/Nature-Made%C2%AE-Serves-Up-Pickle-Flavored-Multivitamin-Gummies-to-Make-a-Huge-Dill-of-its-Favorite-Pastime-Pickleball)
