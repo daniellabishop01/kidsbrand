@@ -381,6 +381,46 @@ Same rules: short, playful, intentional, works for every product category, and g
 
 **My top picks from this round:** **Gumption, Wonderly, Tiptop, Pickle, Chapter, Willow.**
 
+### Sky theme: "The sky's the limit"
+
+**Why this theme works:** "The sky's the limit" is the **promise of no limits**, for kids and for the brand. It fits every category, grows with the child (big dreams at 7, big goals at 16), and says *potential* rather than *problem*. The plan's "anti-frustration" idea becomes optimism, and the tagline comes free: **"Sky's the limit."**
+
+**Brand names**
+| Name | Why it's intentional | Notes |
+|---|---|---|
+| **Skylark** ⭐ | A small bird that **sings as it soars**. "On a skylark" also means a fun adventure. Joyful, a little whimsical, and works for any age. | No supplement brands found. ⚠️ Buick once made a Skylark car, and there's a Japanese restaurant chain. Different categories. |
+| **Lofty** ⭐ | Lofty goals and high hopes, but playful: an adjective that sounds like a friendly character. Short and smiley. | No supplement brands found. Works great with a mascot (a little cloud or bird named Lofty). |
+| **Aloft** ⭐ | Floating high: lifted up, light, calm. Elegant, and works for sleep and calm as well as focus. Ages up beautifully. | No supplement brands found. ⚠️ Aloft hotels (Marriott) is a different category, but check. Less playful than Lofty. |
+| **Updraft** ⭐ | The rising air that **lifts kites and birds higher**. The parent and the brand are the lift under the kid's wings. Very intentional and unusual. | No supplement brands found. The "draft" ending is less cute, so test it out loud with kids. |
+| **Liftoff** | 3-2-1 liftoff! A fun countdown, launching your day. | No supplement brands found. Sounds energetic, which is less natural for sleep and calm products. |
+| **Skyward** | Always moving upward. | ⚠️ **Skyward** is a widely used school student-information system that parents log into. Confusing. Avoid. |
+| **Yonder** / **Blue Yonder** | From round 2: "off into the wild blue yonder". Sky and adventure together. | Yonder: no supplement brands found. ⚠️ Blue Yonder is a supply-chain software company. Plain **Yonder** is cleaner. |
+| **Kite** | From round 3: the kid flies, the parent holds the string. | ⚠️ Kite Pharma, as noted before. |
+| **Moonshot** | A big, bold dream. | Common in startup and tech language. Teens and adults like it; maybe too "corporate" for kids. |
+| **Zenith** | The highest point in the sky. | ⚠️ Zenith electronics. Sounds more serious than playful. |
+| ~~Skye~~ | | ⚠️ **Skye is a Paw Patrol pup**, a huge kids' licensing brand. Avoid. |
+| ~~Blue Sky~~ | | ⚠️ **Blue Sky Vitamin** (a supplement retailer) and a **BLUE SKY NUTRITION** supplement trademark exist. Avoid. |
+| ~~Nimbus~~ | | ⚠️ **Nimbus Nutrition** (sports supplements), plus Harry Potter's Nimbus broom. Avoid. |
+| ~~Bluebird~~ | The bluebird of happiness plus the sky, a lovely idea. | ⚠️ **Bluebird Botanicals** (a supplement brand). Avoid. |
+| ~~Horizon~~ | | ⚠️ **Horizon Organic** (kids' milk). Avoid. |
+| ~~Cloud 9~~ / ~~Sky High~~ | | Very crowded phrases (and a Disney film, *Sky High*). Hard to own. |
+| ~~Limitless~~ | | ⚠️ Linked to the film's "smart pill", which implies a nootropic or drug claim. **Avoid for a kids' product.** |
+
+**A sky-themed product system (what makes it intentional):** the master brand is the sky, and each product is a part of the sky.
+
+| Product | Sky name idea | Color |
+|---|---|---|
+| **Hero: Focus & Calm** | *Clear Skies* | Bright day blue |
+| Sleep | *Moonbeam* or *Starlight* | Night navy and silver |
+| Immunity | *Sunshine* | Sunny yellow |
+| Hydration | *Rain Drop* | Aqua |
+| Gut / Greens | *Rainbow* (all the colors) | Multicolor (⚠️ Rainbow Light is a kids' vitamin brand, so use it as a descriptor only, or pick another) |
+| Teen line | *Altitude* | Sunset orange and purple |
+
+For example, ***Lofty Clear Skies: Focus & Calm*** or ***Skylark Moonbeam: Sleep***. The reward chart becomes a "sky chart" where kids add a star for each good day. Packaging moves from dawn to day to sunset to night colors, which makes shelf impact and color-coding by product automatic.
+
+**My top sky picks:** **Lofty, Skylark, Aloft, Updraft**, with **Yonder** as a crossover with the adventure theme.
+
 ### Why Wayfinder is the lead master-brand recommendation
 - **It keeps the concept you like:** the explorer, scouting spirit, without borrowing the Scouting organizations' word.
 - **It fits every category:** "finding your way" works for focus (homework), sleep (bedtime), immunity (the school year) and sport (game day). Each product is *gear for the journey*.
@@ -414,4 +454,4 @@ Use the **singular** (*Scout Wits Focus & Calm*, *Scout Sleep*), run legal clear
 - OLLY: [Wikipedia, Olly (company)](https://en.wikipedia.org/wiki/Olly_(company)) · [Fritinancy, Olly naming](https://fritinancy.substack.com/p/olly-olli-ollie-olipop) · [NutritionInsight, Unilever acquires OLLY](https://www.nutritioninsight.com/news/Unilever-banks-on-health-and-wellness-trend-as-it-acquires-functional-food-and-supplement-business-OLLY.html) · [Unilever, health & wellbeing business](https://www.unilever.com/news/news-search/2022/introducing-our-fastgrowing-health-wellbeing-business/) · [Marketing-Interactive, Hong Kong launch](https://www.marketing-interactive.com/unilever-s-olly-takes-youthful-route-for-go-to-market-strategy-in-hong-kong) · [Retail Brew, OLLY gets brainy](https://retailbrew.com/stories/2024/04/02/olly-gets-brainy-with-new-cognitive-supplement-line) · [Drug Store News, cognitive line](https://drugstorenews.com/olly-launches-cognitive-focused-supplements-line) · [Stack3d, Brainy L'Olly Pops](https://www.stack3d.com/2024/04/brainy-lolly-pops/) · [Desirability Lab, OLLY design](https://desirabilitylab.com/backfill/backfill-2023-224-olly-gummy-vitamins)
 - Molly Pittman: [Smart Marketer, new CEO](https://smartmarketer.com/molly-pittman-is-smart-marketers-new-ceo/) · [How to manage & scale your marketing](https://smartmarketer.com/how-to-manage-and-scale-your-marketing-smart-business-systems/) · [6 growth strategies](https://smartmarketer.com/6-growth-strategies/) · [The Ecom Show #197](https://shows.acast.com/theecomshow/episodes/197-molly-pittman-from-smart-marketer) · [Marketing Speak, paid traffic shift](https://www.marketingspeak.com/the-paid-traffic-tectonic-shift-with-molly-pittman/) · [Paid Traffic Mastery review](https://freeaffiliatemarketingbusiness.com/paid-traffic-mastery-review-molly-pittman/) · [Smart Marketer Agency](https://smartmarketeragency.com/)
 - Scouts trademark context: [NPR, Girl Scouts sue Boy Scouts](https://www.npr.org/2018/11/07/665308785/girl-scouts-of-the-usa-) · [Quinn Emanuel, Boy Scouts trademark victory](https://www.quinnemanuel.com/the-firm/victories/trademark-victory-for-boy-scouts-of-america/) · [Justia, SCOUT (Class 5, abandoned)](https://trademark.justia.com/850/13/scout-85013754.html) · [Justia, NUTRASCOUT](https://trademark.justia.com/867/77/nutrascout-86777443.html)
-- Name conflict checks: [HBW Insight, Wren Labs kids probiotic gummies](https://hbw.citeline.com/RS152248/UKs-Wren-Labs-Launches-Grown-Up-Version-Of-Successful-Kids-Probiotic-Gummies) · [Justia, HEALTHY KIDS HAPPY KIDS](https://trademark.justia.com/880/37/healthy-kids-happy-88037599.html) · [Justia, Happy Families Ltd](https://trademark.justia.com/owners/happy-families-ltd-1076815) · [Apollo Pharmacy, Happi Kidz](https://apollopharmacy.in/otc/happi-kidz-75gm-strawberry-orange-flav-gummies-30-s) · [BevNET, Recess Mood powder](https://www.bevnet.com/news/2021/in-the-mood-recess-expands-relaxation-platform-with-new-drink-powder) · [Walmart, Firefly! Outdoor Gear](https://www.walmart.com/brand/fireflyoutdoorgear/kids-led-lanterns/10013957) · [Food Business News, Oodles of Doodles](https://www.foodbusinessnews.net/articles/29445-oodles-of-doodles-enters-us-market) · [Justia, Starlingforce STARLING (multivitamins)](https://trademarks.justia.com/owners/starlingforce-co-ltd-3717979) · [License Global, Treehouse characters get vitamins](https://www.licenseglobal.com/beauty-cosmetics/treehouse-characters-get-vitamins) · [Business Wire, Nature Made pickle gummies](https://www.businesswire.com/news/home/20240403493505/en/Nature-Made%C2%AE-Serves-Up-Pickle-Flavored-Multivitamin-Gummies-to-Make-a-Huge-Dill-of-its-Favorite-Pastime-Pickleball)
+- Name conflict checks: [HBW Insight, Wren Labs kids probiotic gummies](https://hbw.citeline.com/RS152248/UKs-Wren-Labs-Launches-Grown-Up-Version-Of-Successful-Kids-Probiotic-Gummies) · [Justia, HEALTHY KIDS HAPPY KIDS](https://trademark.justia.com/880/37/healthy-kids-happy-88037599.html) · [Justia, Happy Families Ltd](https://trademark.justia.com/owners/happy-families-ltd-1076815) · [Apollo Pharmacy, Happi Kidz](https://apollopharmacy.in/otc/happi-kidz-75gm-strawberry-orange-flav-gummies-30-s) · [BevNET, Recess Mood powder](https://www.bevnet.com/news/2021/in-the-mood-recess-expands-relaxation-platform-with-new-drink-powder) · [Walmart, Firefly! Outdoor Gear](https://www.walmart.com/brand/fireflyoutdoorgear/kids-led-lanterns/10013957) · [Food Business News, Oodles of Doodles](https://www.foodbusinessnews.net/articles/29445-oodles-of-doodles-enters-us-market) · [Justia, Starlingforce STARLING (multivitamins)](https://trademarks.justia.com/owners/starlingforce-co-ltd-3717979) · [Justia, Blue Sky Nutrition](https://trademark.justia.com/owners/blue-sky-nutrition-llc-4836053) · [CB Insights, Blue Sky Vitamin](https://www.cbinsights.com/company/blue-sky-vitamin) · [Exercise.com, Nimbus Nutrition](https://exercise.com/companies/nimbus-nutrition) · [License Global, Treehouse characters get vitamins](https://www.licenseglobal.com/beauty-cosmetics/treehouse-characters-get-vitamins) · [Business Wire, Nature Made pickle gummies](https://www.businesswire.com/news/home/20240403493505/en/Nature-Made%C2%AE-Serves-Up-Pickle-Flavored-Multivitamin-Gummies-to-Make-a-Huge-Dill-of-its-Favorite-Pastime-Pickleball)
