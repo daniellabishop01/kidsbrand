@@ -777,6 +777,40 @@ Rule for this round: a friendly hello or cheer that **doesn't start with "Hi/Hey
 
 **My top picks:** **Dazzle, Shiny, Glint.** Use **Twinkle** for a future sleep product and **Glow Up** for the teen line.
 
+### Kudos: the UK Class 5 filing and what to do
+
+*Update (Oct 16): the team's favorite is **Kudos**, but a **British brand has a pending trademark application in Class 5** (supplements). My web searches couldn't confirm the filing's details (one found a *Kudos* vitamin range sold in Vietnam). The points below assume the UK filing exists as reported and **are not legal advice**. A trademark attorney should confirm each one.*
+
+**What a pending UK filing does and doesn't do**
+1. **Trademarks are country by country.** A UK application doesn't automatically stop a **US** registration. What matters for a US launch is the **USPTO** record and anyone already **selling under the name in the US**.
+2. **⚠️ The 6-month priority risk.** Under international trademark rules (the Paris Convention), a UK applicant can file in the US **within 6 months** of its UK filing date and **keep the UK date**. If their UK filing is recent, they could still get ahead of us in the US. **Check the UK filing date first.**
+3. **Check for a US designation.** If they filed internationally (the Madrid system) and named the US, their application may already be at the USPTO.
+4. **It blocks the UK and maybe Europe.** Even if the US is clear, we'd likely **never be able to use Kudos in the UK** (or the EU, if they filed there), including **Amazon.co.uk**. Brand Registry is per marketplace.
+5. **Spelling changes don't solve it.** *Kudo*, *Kudoz*, *Kudoo* or *Kudu* are judged on **sound, look and meaning**, and they'd likely be treated as the same mark. **This also rules out "Kudo"** from the earlier round.
+
+**Options**
+| Option | When it makes sense | Risk |
+|---|---|---|
+| **A. US-only clearance** | The attorney finds **no US filing or US designation** and the UK filing is **older than 6 months**. | We give up the UK/EU under this name, and the UK brand could enter the US later and challenge us if they build use first. Medium risk. |
+| **B. Coexistence agreement or buy the mark** | The UK brand is small or in a different niche (e.g., adult products). | Costs money and time. They may say no. |
+| **C. Keep the feeling, change the word** | We want a clean, global, ownable name. | Lowest risk. **Recommended** if the attorney sees any US exposure. |
+
+**Option C: names with the same "Kudos!" feeling**
+| Name | Why it captures Kudos | Notes |
+|---|---|---|
+| **Props** ⭐ | **The closest match to Kudos**: "props to you!" is literally praise, and teens and parents say it every day. One punchy syllable. | No supplement brands found (earlier round). **First choice to clear next.** |
+| **Shoutout** ⭐ | "Shout-out to you!", public praise for small wins. Kids and teens love it, and it works on the reward chart ("Today's shout-out: homework done!"). | Not checked yet. Common word, so it needs a distinctive logo. |
+| **Huzzah** ⭐ | An old-fashioned "hooray!" that's fun, theatrical and very ownable. It has the same playful, slightly old-fashioned charm as *Kudos*. | Not checked yet. Some kids may need to hear it once. |
+| **Bravo** | Applause for doing your best. | No supplement brands found. ⚠️ Bravo TV is a different category. |
+| **Up Top** | The high-five call. Praise plus reaching up. | No supplement brands found. |
+| **High Five** | The original celebration favorite. | Common phrase. |
+| **Hats Off** | "Hats off to you!" | Two words, a bit grown-up. |
+| ~~Kudo~~ / ~~Kudoz~~ / ~~Kudu~~ | | Likely treated as the same mark as KUDOS. Avoid. |
+| ~~Atta~~ | "Atta kid!" | ⚠️ *Atta* is a common flour name (Indian brands), and "attaboy/attagirl" are gendered. |
+| ~~Cheers~~ | | Suggests alcohol. |
+
+**Recommended next step:** send the attorney **KUDOS** (for options A and B) **plus Props, Shoutout and Huzzah** (option C) in **one** knockout search, so a "no" on Kudos doesn't cost another week.
+
 ### Why Wayfinder is the lead master-brand recommendation
 - **It keeps the concept you like:** the explorer, scouting spirit, without borrowing the Scouting organizations' word.
 - **It fits every category:** "finding your way" works for focus (homework), sleep (bedtime), immunity (the school year) and sport (game day). Each product is *gear for the journey*.
