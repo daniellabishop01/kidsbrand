@@ -6,42 +6,76 @@
 
 ---
 
+## Our rallying cry
+
+> # Fuel their potential. Celebrate every win.
+
+*The one line everything comes back to: on the pack, at the top of the website, at the end of every ad, and in every decision we make.*
+
+---
+
 ## 1. Purpose: *why we exist*
 
-**Purpose statement**
-> **To help kids feel like they *can*: to inspire them, fuel their creativity, and let who they are shine.**
+> **We exist to fuel every child's potential, and to celebrate every win along the way.**
 
-**Short version:** *Helping kids feel like they can.*
+Every child has a spark. Our purpose is to fuel it: to help kids believe *I can*, to inspire their curiosity and creativity, and to give them the confidence to let who they are shine.
 
 **Our Big Idea**
-> **We believe natural ingredients can help children reach their full potential.**
-> **We want every child's personality to shine, and every parent to feel good about what they're giving them.**
+
+> **We believe every child is full of potential.**
+> **We believe the right natural ingredients can help them reach it.**
+> **We believe a child's personality is meant to shine, never to be dimmed.**
+> **We believe parents deserve products they trust, made with ingredients they feel good about.**
+> **And we believe every win, big or small, deserves to be celebrated.**
 
 | | |
 |---|---|
-| **What we believe** | Natural ingredients, chosen with care and backed by research, can help children reach their full potential. |
-| **What we want for kids** | For their personalities to shine: their curiosity, their creativity, their spark. We're not trying to change who they are. We help them feel like they can. |
-| **What we promise parents** | Products they can trust to give their children, and feel good about the ingredients in every serving. |
-| **The tension we answer** | Parents are worn out by hard afternoons and big feelings, and by a supplement aisle full of hype, hidden blends and ingredients they can't pronounce. They want something natural they can actually trust. Kids want to feel capable, not labeled by their hardest moments. |
+| **What we believe** | The right natural ingredients, chosen with care and backed by research, can help children reach their full potential. |
+| **What we want for kids** | To feel capable, curious and confident, with their personalities free to shine. We never try to change who they are; we help them become *more* of who they are. |
+| **What we promise parents** | Products they can trust and ingredients they feel good about, every single serving. |
+| **The tension we answer** | Parents are worn out by hard afternoons and big feelings, and by a supplement aisle full of hype and hidden blends. Kids want to feel capable, not labeled by their hardest moments. We bring both of them something better: trust, and something to cheer about. |
 
 ---
 
 ## 2. Mission: *what we do every day*
 
-> **To create products that help children thrive.**
+> **To create natural products that help children thrive: trusted by parents, loved by kids, and made to fuel their potential every single day.**
 
-**How we live it every day:** natural ingredients backed by research in kids, honest labels parents can feel good about, flavors kids actually love, and a daily routine that celebrates every win along the way.
+**How we bring it to life:** natural ingredients backed by research in kids · honest labels parents feel good about · flavors kids actually ask for · and a daily routine that turns every win into a celebration.
 
 ---
 
 ## 3. Vision: *the future we're building*
 
-> **A trusted daily partner for every family, from first grade to graduation.**
+> **A generation of kids who believe they can.**
 
 **What that looks like in 5 years**
-- The **proof-first family wellness brand**: every product backed by research in its age group, explained in plain language.
-- A range that grows with the child: **Focus & Calm** (hero), then sleep, immunity, gut, hydration and greens, then a **teen line**.
-- The brand pediatricians feel comfortable recommending, and parents recommend to each other.
+- **The brand families grow up with:** from the first day of first grade to graduation day, with **Focus & Calm** as the hero, then sleep, immunity, gut, hydration and greens, and a **teen line**.
+- **The most trusted name in kids' natural wellness:** every product backed by research in its age group and explained in plain language.
+- **A brand that cheers louder than anyone:** the one pediatricians feel good recommending, parents can't stop talking about, and kids are proud to call theirs.
+
+---
+
+## Our manifesto *(for the website, the box and the launch video)*
+
+> Every kid has a spark.
+> A big imagination. A brave idea. A laugh that fills the room.
+> Some days that spark shines bright. Some days it needs a little fuel.
+>
+> We're here for both.
+>
+> We make natural products with ingredients you can feel good about,
+> backed by research and loved by kids,
+> to help them focus, find their calm, and **become more of who they are.**
+>
+> Because potential isn't something kids need to earn.
+> It's already there, waiting to be fueled.
+>
+> So here's to the homework finished. The deep breath taken. The brave first try.
+> The good night's sleep. The *I did it!*
+>
+> **Fuel their potential. Celebrate every win.**
+> *That's [Brand].*
 
 ---
 
@@ -49,7 +83,7 @@
 
 | Value | What it means | What it doesn't mean |
 |---|---|---|
-| **🎉 Celebrate the small wins** | We cheer progress, not perfection: homework done, a calm evening, a brave first try, a good night's sleep. Every win counts, and we make sure kids *feel* it. | Labeling kids by their struggles, or making anyone feel they're not enough. |
+| **🎉 Celebrate every win** | We cheer progress, not perfection: homework done, a calm evening, a brave first try, a good night's sleep. Every win counts, and we make sure kids *feel* it. | Labeling kids by their struggles, or making anyone feel they're not enough. |
 | **✨ Live with zeal** | We bring energy, joy and heart to everything, from our flavors to our stickers to the way we talk. Childhood is meant to be lived out loud. | Being loud for its own sake, or hype. Our zeal is genuine, never salesy. |
 | **💛 Encourage, always** | We're in every kid's corner. We believe in what they *can* do and help them believe it too. We encourage parents just as much. | Pressure, comparison or perfectionism. |
 | **🌱 Ingredients you can feel good about** | Natural ingredients, chosen with care, at the dose that was studied, with nothing hidden. If we wouldn't give it to our own kids, it doesn't go in the box. | Proprietary blends, mystery fillers, or "natural" used as a buzzword without the proof behind it. |
@@ -80,6 +114,7 @@
 - **One-liner:** *[Brand] is the kids' focus and calm supplement proven in its own children's study.*
 - **Elevator (for parents):** *Homework shouldn't be a battle. [Brand] Focus & Calm is one gentle, non-stimulant ingredient, studied in kids ages 6–12 at the exact dose in every stick, to support focus, memory and calm. Kids love the taste, and you'll love knowing what's in it.*
 - **For kids:** *You've got this! Mix it, sip it, shine, and celebrate every win.*
+- **Rallying cry:** *Fuel their potential. Celebrate every win.*
 
 ---
 
