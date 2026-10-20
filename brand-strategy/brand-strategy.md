@@ -9,21 +9,28 @@
 ## 1. Purpose: *why we exist*
 
 **Purpose statement**
-> **To help kids have more good days, with proof parents can trust.**
+> **To help kids feel like they *can*: to inspire them, fuel their creativity, and let who they are shine.**
 
-**The Big IdeaL** (Ogilvy's format: the brand at its best, meeting a real tension in the world)
+**Short version:** *Helping kids feel like they can.*
+
+**Our Big Idea**
+> **We believe natural ingredients can help children reach their full potential.**
+> **We want every child's personality to shine, and every parent to feel good about what they're giving them.**
 
 | | |
 |---|---|
-| **Our best self** | We build gentle, kid-loved products on real children's research, and we celebrate kids for who they are, not for what they struggle with. |
-| **The tension in the world** | Parents are at the end of their rope: homework battles, big feelings, restless nights. And the supplement aisle answers with hype, hidden blends and borrowed science. Parents don't know what to believe, and kids feel labeled by their hardest moments. |
-| **Our Big IdeaL** | **[Brand] believes the world would be a better place if every kid got to feel the pride of a good day, and every parent could trust what they give them.** |
+| **What we believe** | Natural ingredients, chosen with care and backed by research, can help children reach their full potential. |
+| **What we want for kids** | For their personalities to shine: their curiosity, their creativity, their spark. We're not trying to change who they are. We help them feel like they can. |
+| **What we promise parents** | Products they can trust to give their children, and feel good about the ingredients in every serving. |
+| **The tension we answer** | Parents are worn out by hard afternoons and big feelings, and by a supplement aisle full of hype, hidden blends and ingredients they can't pronounce. They want something natural they can actually trust. Kids want to feel capable, not labeled by their hardest moments. |
 
 ---
 
 ## 2. Mission: *what we do every day*
 
-> **We make daily supplements kids actually want to take, built on studies done in children and honest about what they do. We start with focus and calm, and we make it easy for families to start, stick with it, and celebrate the wins along the way.**
+> **To create products that help children thrive.**
+
+**How we live it every day:** natural ingredients backed by research in kids, honest labels parents can feel good about, flavors kids actually love, and a daily routine that celebrates every win along the way.
 
 ---
 
@@ -42,11 +49,12 @@
 
 | Value | What it means | What it doesn't mean |
 |---|---|---|
-| **Proof over promises** | Every claim traces back to a study, ideally in kids at the dose on our label. We show the research in plain language. | Overclaiming, "clinically proven" with the dose hidden, or borrowing science from studies in other age groups or other ingredients. |
-| **Nothing hidden** | One clinical dose, no proprietary blends, a clear label. We tell parents what to expect, and how long it takes. | Fine print, vague "blends", or burying side effects or limits. |
-| **Gentle by design** | Non-stimulant, made for growing bodies, tested by kids for taste. Safety comes first, every time. | Candy-like products, mega-doses, or anything that pressures a kid to take more. |
-| **Celebrate small wins** | We cheer progress, not perfection: homework done, a calmer evening, a good night's sleep. Kudos is our language. | Labeling kids by struggles, or shaming parents for needing help. |
-| **Better together** | Parents, kids and doctors on the same team. We encourage talking with your child's doctor and support the whole family's routine. | Positioning ourselves against doctors or medication, or making parents feel alone. |
+| **🎉 Celebrate the small wins** | We cheer progress, not perfection: homework done, a calm evening, a brave first try, a good night's sleep. Every win counts, and we make sure kids *feel* it. | Labeling kids by their struggles, or making anyone feel they're not enough. |
+| **✨ Live with zeal** | We bring energy, joy and heart to everything, from our flavors to our stickers to the way we talk. Childhood is meant to be lived out loud. | Being loud for its own sake, or hype. Our zeal is genuine, never salesy. |
+| **💛 Encourage, always** | We're in every kid's corner. We believe in what they *can* do and help them believe it too. We encourage parents just as much. | Pressure, comparison or perfectionism. |
+| **🌱 Ingredients you can feel good about** | Natural ingredients, chosen with care, at the dose that was studied, with nothing hidden. If we wouldn't give it to our own kids, it doesn't go in the box. | Proprietary blends, mystery fillers, or "natural" used as a buzzword without the proof behind it. |
+| **🔬 Proof over promises** | We back our products with research, ideally in kids at the dose on our label, and explain it in plain language. | Overclaiming or borrowed science. |
+| **👨‍👩‍👧 Better together** | Parents, kids and doctors on the same team. We encourage talking with your child's doctor and support the whole family's routine. | Positioning ourselves against doctors or medication, or making parents feel alone. |
 
 ---
 
@@ -58,7 +66,7 @@
 
 **What's at stake.** For families, this isn't a "focus problem". It's *every evening*: homework battles, big feelings, bedtime standoffs. Parents want help that's gentle, but the supplement aisle is full of blends built on borrowed science, hidden doses and big promises. Most parents end up guessing.
 
-**The promised land.** Calmer afternoons. Homework that gets done without a fight. A kid who feels proud of their day, and a parent who feels good about what they chose.
+**The promised land.** Kids who feel like they *can*: calmer afternoons, homework done without a fight, room for curiosity and creativity, and personalities free to shine. Every win, big or small, celebrated. And a parent who feels good about every ingredient they chose.
 
 **How we get there.**
 1. **Studied in kids:** made with **Bacozest**, a patented Bacopa extract (standardized to 20% bacosides), studied in a placebo-controlled trial with children ages 6–12.
@@ -71,7 +79,7 @@
 **Short versions**
 - **One-liner:** *[Brand] is the kids' focus and calm supplement proven in its own children's study.*
 - **Elevator (for parents):** *Homework shouldn't be a battle. [Brand] Focus & Calm is one gentle, non-stimulant ingredient, studied in kids ages 6–12 at the exact dose in every stick, to support focus, memory and calm. Kids love the taste, and you'll love knowing what's in it.*
-- **For kids:** *It's your daily boost for good days. Mix it, sip it, and earn your star!*
+- **For kids:** *You've got this! Mix it, sip it, shine, and celebrate every win.*
 
 ---
 
@@ -86,7 +94,7 @@
 > **it's made with one ingredient, Bacozest, studied in children at the exact dose in every serving.**
 
 **Brand-level positioning** (for when the range grows)
-> **[Brand] is the proof-first daily wellness brand for growing kids:** every product kid-loved, honestly labeled, and backed by research in its age group.
+> **[Brand] makes natural, research-backed products that help children thrive:** kid-loved, honestly labeled, and made to help every kid's personality shine.
 
 **The building blocks**
 
@@ -121,13 +129,14 @@
 
 ## 7. Personality: *who we are*
 
-**If [Brand] were a person:** the favorite coach or cool aunt. Warm, funny, always in your corner, and they've done their homework. Kids want to hang out with them; parents trust them completely.
+**If [Brand] were a person:** the favorite coach or cool aunt. Full of heart and zeal, the first to cheer every win, always in your corner, and they've done their homework. Kids feel like they *can* around them; parents trust them completely.
 
 | We are… | …but not |
 |---|---|
 | **Playful** | Silly or babyish (we grow up with our kids) |
 | **Smart** | Clinical or preachy |
-| **Warm** | Sappy or sugary |
+| **Warm, full of heart** | Sappy or sugary |
+| **Zealous and joyful** | Over-the-top or hyper |
 | **Honest** | Hype-y or salesy |
 | **Encouraging** | Pushy or perfectionist |
 
@@ -139,7 +148,7 @@
 | **Kids** | Upbeat, celebratory, simple. Lots of cheering. | *"Homework done? Kudos! Add a star to your chart."* |
 | **Pediatricians & practitioners** | Precise, evidence-first, no fluff. | *"160 mg standardized Bacopa extract (20% bacosides); placebo-controlled study in children 6–12; summary attached."* |
 
-**Words we love:** good days, small wins, kudos, together, gentle, studied, simple, proud.
+**Words we love:** you can, shine, small wins, celebrate, zeal, spark, thrive, together, natural, feel good, proud.
 **Words we avoid:** cure, treat, fix, disorder (in marketing), miracle, "smart pill", hack, boost-your-IQ.
 
 ---
@@ -165,3 +174,4 @@
 - [ ] **Cost of goods**, to confirm the $29.99 / $34.99 pricing.
 - [ ] **Published Bacozest study**, so it can be cited on the study page and in the pediatrician one-pager.
 - [ ] **Approve the purpose, values and positioning above**, or mark up what to change.
+- [ ] **"Natural" claims check:** the FTC and the NAD (the ad industry's self-regulatory body) look closely at "natural". Make sure the final formula (flavors, sweeteners, colors) backs up any "natural ingredients" claim on the pack.
