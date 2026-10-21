@@ -28,7 +28,9 @@ We speak to parents in the same warm, clever voice, with the facts up front.
 *A little twist on a familiar phrase that says exactly what we believe: every win matters, and we'll always make a fuss about yours.*
 
 **Our signature sign-off** *(the cool-uncle line on the pack, in emails and at the end of every video)*:
-> **"Go on. Amaze us."**
+> **"Let's do this. Together."**
+
+*Kids do their best when they know someone's right there with them. We're not cheering from the stands; we're right beside them, every step of the way.*
 
 **Other options to test:**
 - **"You've got this. (We knew you would.)"**
@@ -108,8 +110,11 @@ Every kid has a spark: wild ideas, hidden talents, jokes only they find funny, t
 > And here's the secret most grown-ups forget:
 > **there's no such thing as a small win.**
 >
+> So whatever today throws at you,
+> you won't be facing it alone.
+>
 > Small wins. Big deal.
-> **Go on. Amaze us.**
+> **Let's do this. Together.**
 > *[Brand]*
 
 ---
@@ -146,7 +151,7 @@ Every kid has a spark: wild ideas, hidden talents, jokes only they find funny, t
 **Proof.** In the study, children taking Bacozest improved compared with placebo on focus, planning, memory and learning, hyperactivity and distraction, sleep quality, anxiety and aggression, and getting along with others, with no serious side effects reported. We hold exclusive US sourcing rights, so no other brand can claim this study.
 
 ### Short versions
-- **For kids:** *"One stick, one sip, one fresh start. Now go on: amaze us."*
+- **For kids:** *"One stick, one sip, one fresh start. Ready? Let's do this. Together."*
 - **For grown-ups (elevator):** *"Homework shouldn't be a battle. [Brand] Focus & Calm is one gentle, natural, non-stimulant ingredient, studied in kids ages 6–12 at the exact dose in every stick, to support focus, memory and calm. Kids love the taste, you'll love what's inside, and every win gets celebrated."*
 - **One-liner:** *"The fun, natural kids' focus and calm supplement, proven in its own children's study."*
 
@@ -206,7 +211,7 @@ Every kid has a spark: wild ideas, hidden talents, jokes only they find funny, t
 
 ## 7. Personality: *who we are*
 
-**If [Brand] were a person:** the cool uncle, aunt or grandpa. The one with the best stories, the cleverest jokes and the twinkle in their eye. They remember every win you've ever had, never miss a chance to brag about you, and somehow make you feel ten feet tall. Kids adore them; parents trust them completely.
+**If [Brand] were a person:** the cool uncle, aunt or grandpa. The one with the best stories, the cleverest jokes and the twinkle in their eye. They show up, they sit right beside you, they remember every win you've ever had, and somehow they make you feel ten feet tall. Kids adore them; parents trust them completely.
 
 | We are… | …but not |
 |---|---|
@@ -224,7 +229,8 @@ Every kid has a spark: wild ideas, hidden talents, jokes only they find funny, t
 4. **Speak up to kids, not down.** We assume they're clever, because they are.
 5. **Tell it like a story.** Every message has a little beginning, middle and happy ending, the way a great grandparent tells it.
 6. **Jokes on two levels.** Kids smile at one thing, parents smile at another.
-7. **Heart under the wit.** Every line still says the same thing: *you can do anything, and we've always known it.*
+7. **Heart under the wit.** Every line still says the same thing: *you can do anything, and you'll never have to do it alone.*
+8. **Side by side, not from the sidelines.** We say "let's" and "together" more than "you should". Kids feel supported, not watched.
 
 *Inspired by great storytellers (Pixar, Disney, Roald Dahl, Dr. Seuss), not by their characters or catchphrases. Avoid owned phrases and anything that looks like borrowed characters.*
 
@@ -236,14 +242,14 @@ Every kid has a spark: wild ideas, hidden talents, jokes only they find funny, t
 | **Grown-ups** | Warm, clear, reassuring, a little witty. The same fun spirit, with the facts up front. | *"Homework shouldn't be a battle. Here's what the research says, in plain English."* |
 | **Pediatricians & practitioners** | Precise, evidence-first, no fluff. | *"160 mg standardized Bacopa extract (20% bacosides); placebo-controlled study in children 6–12; summary attached."* |
 
-**Words we love:** spark, brilliant, brave, remarkable, wonder, win, proud, you've got this, go on, I knew it.
+**Words we love:** let's, together, side by side, spark, brilliant, brave, remarkable, wonder, win, proud, you've got this, I knew it.
 **Words we avoid:** **all slang** ("W", "lit", "vibes", "no cap", "legend" as slang), baby talk ("yummy tummy", "little ones"), cure, treat, fix, disorder, miracle, "smart pill", hack, fuel, boost-your-IQ, and anything that makes a kid feel broken.
 
 ### Where the kid voice lives
 | Touchpoint | The cool-uncle voice in action |
 |---|---|
 | **The box** | On the lid: *"Open with confidence. You've got this."* Inside: *"I've been expecting you."* |
-| **Stick packs** | A different line on every stick: *"Today has no idea what's coming."* · *"Brilliance, now in stick form."* · *"Small steps. Giant strides."* · *"Go on. Amaze us."* |
+| **Stick packs** | A different line on every stick: *"Today has no idea what's coming."* · *"Brilliance, now in stick form."* · *"Small steps. Giant strides."* · *"You and me? Unstoppable."* · *"Let's do this. Together."* |
 | **The Brag Board** *(reward chart)* | Every win gets a star, because winners deserve bragging rights. A full board unlocks a surprise. |
 | **Collectible stickers** | Clever little badges of honor: *"Homework Hero"*, *"Calm Captain"*, *"Bedtime Champion"*, *"First-Try Brave"* |
 | **Mascot** | A wise, witty character with a twinkle in their eye, the cool uncle in cartoon form, who believes in every kid |
@@ -274,7 +280,7 @@ Every kid has a spark: wild ideas, hidden talents, jokes only they find funny, t
 ## 9. Open decisions
 
 - [ ] **Brand name:** to be decided. Kudos is on hold (a UK Class 5 filing exists, and nothing has been filed in the US yet). Run a trademark search on the finalists (e.g., Kudos, Props, Booyah, Huzzah) and file a US intent-to-use application for the winner right away.
-- [ ] **Rallying cry:** test *"Small wins. Big deal."* and the sign-off *"Go on. Amaze us."* against the options above, with real 6–12-year-olds and parents.
+- [ ] **Rallying cry:** test *"Small wins. Big deal."* and the sign-off *"Let's do this. Together."* against the options above, with real 6–12-year-olds and parents.
 - [ ] **Mascot:** create the character (it can be developed before the name is final).
 - [ ] **Formula:** Bacozest only, or add supporting ingredients? (A single ingredient keeps the "Nothing hidden" pillar and the study claim clean.)
 - [ ] **Cost of goods**, to confirm the $29.99 / $34.99 pricing.
