@@ -848,6 +848,36 @@ Rule for this round: a friendly hello or cheer that **doesn't start with "Hi/Hey
 
 **My top picks:** **Ember** (the spark) and **Confetti** (the celebration), with **Props** as the strongest Kudos replacement. Send all three, plus **Kudos**, in one attorney knockout search.
 
+### Kudos is still the favorite: next steps, plus fun backups
+
+*Update (Oct 21): **Kudos stays #1.** Ember was "cool but too nurturing, not fun enough." The name has to be **fun** first.*
+
+**Steps to try to keep Kudos (with the trademark attorney)**
+1. **Pull the UK filing:** owner, filing date, goods listed, and whether it names the US or the EU. **If it's less than 6 months old, act quickly**: they can still claim that date in the US.
+2. **Run a US search** (USPTO) for KUDOS and anything that sounds like it in **Class 5** (supplements), **29/30/32** (food and drinks) and **35** (retail), plus anyone already **selling** as Kudos in the US.
+3. **If the US is clear:** file a **US application right away**, based on intent to use. Accept that the UK and EU may be off-limits under this name.
+4. **If the UK brand is small or adult-focused:** ask the attorney about a **coexistence agreement** or **buying the mark**.
+5. **Have a fun backup ready** (below), searched in the **same** attorney request so a "no" doesn't cost another week.
+
+*Don't rely on spelling tricks (Kudo, Kudoz) or adding a word ("Kudos Kids"). They're usually still judged as the same mark.*
+
+**Fun backups with the same "Kudos!" energy**
+| Name | Why it's fun | Notes |
+|---|---|---|
+| **Props** ⭐ | "Props to you!" The closest in meaning to Kudos: one punchy syllable, and teens and parents say it every day. | No supplement brands found. |
+| **Booyah** ⭐ | The ultimate "YES, I did it!" Loud, joyful, and impossible to say without smiling. Kids love it, and teens say it too. | No kids' supplement brands found. A famous sports catchphrase and a fishing-lure brand. A little sporty in tone, but a celebration, not "fuel". |
+| **Huzzah** ⭐ | An old-fashioned "hooray!" with the same vintage charm as Kudos, which also comes from an old word (Greek for "glory"). | No supplement brands found. |
+| **Confetti** ⭐ | Celebrating every win, as a picture. | No supplement brands found. |
+| **Woohoo** | Pure joy, said out loud. | No kids' supplement brands found. Common word. |
+| **Bravo** | Applause. Two syllables ending in "-o", like Kudos. | No supplement brands found. Bravo TV is a different category. |
+| **Ta-da** / **Up Top** / **Shoutout** | The "I did it!" moment, the high-five, the shout-out. | No supplement brands found. |
+| ~~Mazel~~ | "Mazel tov!" means congratulations. | It's a Jewish/Yiddish blessing, so using it for a brand needs care. Not recommended. |
+
+**On the hero product:**
+- *Booyah Focus & Calm*: "Homework done? Booyah!"
+- *Props Focus & Calm*: "Props to you, kiddo."
+- *Huzzah Focus & Calm*: "Every win deserves a huzzah."
+
 ### Why Wayfinder is the lead master-brand recommendation
 - **It keeps the concept you like:** the explorer, scouting spirit, without borrowing the Scouting organizations' word.
 - **It fits every category:** "finding your way" works for focus (homework), sleep (bedtime), immunity (the school year) and sport (game day). Each product is *gear for the journey*.
