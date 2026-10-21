@@ -861,6 +861,14 @@ Rule for this round: a friendly hello or cheer that **doesn't start with "Hi/Hey
 
 *Don't rely on spelling tricks (Kudo, Kudoz) or adding a word ("Kudos Kids"). They're usually still judged as the same mark.*
 
+**Can a UK-only brand get a US trademark?** *(General information, not legal advice. Have the attorney confirm.)*
+- **Yes, without selling in the US first,** through three routes: **Section 44(e)** (based on their UK registration), **Madrid Protocol / Section 66(a)** (extending their international registration to the US), or **intent to use / Section 1(b)**. Each requires a **genuine intent to use** the mark in the US.
+- **The 6-month priority window (Section 44(d)):** if they file in the US within 6 months of their UK filing date, **their US filing date counts as their UK date**, even if we filed in the US before them.
+- **If that window has passed and they haven't filed in the US, whoever files first in the US generally wins.** A US intent-to-use filing by us would then give us the earlier date.
+- **Non-use:** a foreign-based US registration that goes unused for **3 years in a row** is presumed abandoned and can be cancelled. A filing made with no real intent to use can also be challenged.
+- **Watch for US sales:** if they already ship to US customers (website, Amazon), that can count as US use and give them some US rights even without a registration.
+- **Either way, the UK is theirs:** we wouldn't be able to use Kudos in the UK.
+
 **Fun backups with the same "Kudos!" energy**
 | Name | Why it's fun | Notes |
 |---|---|---|
