@@ -8,39 +8,43 @@
 
 ## Our voice in one sentence
 
-> **We talk like the best friend in your favorite movie: fun, full of wonder, a little bit magic, and always cheering you on.**
+> **We talk like the funniest, coolest friend in your crew: quick, a little cheeky, never cheesy, and always hyping you up.**
 
-We speak **to kids first**. They're the heroes of our story. We speak to parents too, warmly and clearly, but the magic is for the kids.
+We speak **to kids first**: ages 6–12, **not preschoolers**. Think the energy of a great Pixar sidekick, a Nickelodeon show and your favorite game: funny, confident, a little edgy, and secretly full of heart. **We never talk down to kids.** We talk to them like they're legends, because they are.
+
+We speak to parents too, warmly and clearly, with the facts up front.
 
 ---
 
 ## Our rallying cry
 
-> # Let your spark shine! Every win is a big deal.
+> # Own your spark. Take the W.
 
-*Short version for stickers, packs and sign-offs:* **"Every win is a big deal!"**
+*Kids (and teens) already say "W" for a win. It's their language, not ours. Short version for stickers and sign-offs:* **"Take the W."**
 
-**Other options to test with kids** (all fun, all said *to* the kid):
-- **"Shine bright! Cheer loud!"**
-- **"You've got the spark!"**
-- **"Big wins, little wins, ALL the wins!"**
-- **"Go shine! We'll cheer!"**
+**Other options to test with kids:**
+- **"Every W counts."**
+- **"Lock in. Chill out. Take the W."** *(test with kids and compliance; "lock in" is today's slang for focus)*
+- **"Spark on."**
+- **"Let's gooo!"**
+
+*Slang moves fast. Use it lightly, test it with real kids, and refresh it each year. Our core ideas (spark, wins, you've got this) don't go out of style.*
 
 ---
 
 ## 1. Purpose: *why we exist*
 
-> **We're here to help every kid feel like they *can*, and to throw a party for every win along the way.**
+> **We're here to help every kid feel like they *can*, and to make a big deal out of every win.**
 
-Every kid has a spark: a wild imagination, a brave idea, a giggle that fills the room. We help that spark shine, so kids feel curious, creative, confident and totally, wonderfully *themselves*.
+Every kid has a spark: wild ideas, big talent, jokes nobody else gets, the way they go all-in on the stuff they love. We help that spark shine, so kids feel curious, creative, confident and 100% *themselves*.
 
 ### Our Big Idea
 
-> **We believe every kid is full of magic.**
+> **We believe every kid has a spark worth showing off.**
 > **We believe the right natural ingredients can help them be their brightest.**
 > **We believe every kid's personality is meant to shine, never to be dimmed.**
 > **We believe grown-ups deserve products they trust, made with ingredients they feel good about.**
-> **And we believe every win, big or small, deserves a celebration!**
+> **And we believe every win, big or small, deserves a celebration. Every W counts.**
 
 | | |
 |---|---|
@@ -53,9 +57,9 @@ Every kid has a spark: a wild imagination, a brave idea, a giggle that fills the
 
 ## 2. Mission: *what we do every day*
 
-> **We make natural, kid-loved products that help kids thrive, and we turn every day into a reason to celebrate.**
+> **We make natural products kids actually think are cool, that help them thrive and turn every day into a chance to take the W.**
 
-**How we bring it to life:** natural ingredients backed by research in kids · honest labels grown-ups feel good about · flavors kids actually ask for · and a daily routine full of stickers, stars and cheers.
+**How we bring it to life:** natural ingredients backed by research in kids · honest labels grown-ups feel good about · flavors kids actually ask for · and a daily routine that feels like leveling up, not a chore.
 
 ---
 
@@ -70,37 +74,39 @@ Every kid has a spark: a wild imagination, a brave idea, a giggle that fills the
 
 ---
 
-## Our story *(storybook manifesto for the box, the website and the launch video)*
+## Our story *(manifesto for the box, the website and the launch video)*
 
-*Written to be read out loud, by a grown-up to a kid, or by a kid all by themselves.*
+*Written in the voice of a cool older friend, for 6–12-year-olds (and fine for teens to hear too).*
 
-> Hey, you. Yes, **you!**
+> Real talk: **you've got a spark.**
 >
-> Did you know you have a spark?
-> It's that thing inside you that dreams up wild ideas,
-> builds the tallest towers, and laughs the loudest laughs.
+> It's the thing that makes you, *you*.
+> The wild ideas. The jokes nobody else gets.
+> The way you go all-in on the stuff you love.
 >
-> Some days your spark shines super bright. ✨
-> Some days homework feels like a mountain,
-> and your feelings feel bigger than the whole sky.
+> Some days your spark is ON. 🔥
+> Some days homework hits like a boss level,
+> your brain has 47 tabs open,
+> and your feelings are louder than your little brother.
 >
-> That's okay. Every superstar has days like that.
+> Been there. Totally normal.
 >
-> So we made something special, just for you.
-> A yummy little sip each morning
-> to help you focus, feel calm, and be your brightest self.
+> So we made **[Brand]**.
+> One stick. One sip. Every morning.
+> Natural stuff that helps you focus, chill out,
+> and be the most *you* version of you.
 >
-> And guess what? Every time you finish your homework,
-> take a big deep breath, try something new,
-> or sleep all night long…
+> Finished your homework? **W.**
+> Took a deep breath instead of a meltdown? **W.**
+> Slept all night? **Huge W.**
 >
-> **that's a WIN.** 🎉
-> And every win is a big deal!
+> Every W counts. Even the tiny ones.
+> *Especially* the tiny ones.
 >
-> So go on. Let your spark shine.
-> We'll be right here, cheering the loudest.
+> So go own your spark.
+> We'll be over here, cheering way too loud.
 >
-> **Let your spark shine! Every win is a big deal.**
+> **Own your spark. Take the W.**
 > *[Brand]*
 
 ---
@@ -109,8 +115,8 @@ Every kid has a spark: a wild imagination, a brave idea, a giggle that fills the
 
 | Value | What it means | What it doesn't mean |
 |---|---|---|
-| **🎉 Celebrate every win** | We cheer progress, not perfection: homework done, a calm evening, a brave first try, a good night's sleep. Every win is a big deal, and we make sure kids *feel* it. | Labeling kids by their struggles, or making anyone feel they're not enough. |
-| **✨ Live with zeal** | We bring energy, joy and a little magic to everything, from our flavors to our stickers to the way we talk. Childhood is meant to be lived out loud. | Being loud for its own sake, or hype. Our zeal is genuine, never salesy. |
+| **🎉 Celebrate every win** | We cheer progress, not perfection: homework done, a calm evening, a brave first try, a good night's sleep. Every W counts, and we make sure kids *feel* it. | Labeling kids by their struggles, or making anyone feel they're not enough. |
+| **✨ Live with zeal** | We bring energy, humor and joy to everything, from our flavors to our stickers to the way we talk. Childhood is meant to be lived out loud. | Being loud for its own sake, or hype. Our zeal is genuine, never salesy. |
 | **💛 Encourage, always** | We're in every kid's corner. We believe in what they *can* do and help them believe it too. We cheer for grown-ups just as much. | Pressure, comparison or perfectionism. |
 | **🌱 Ingredients you can feel good about** | Natural ingredients, chosen with care, at the dose that was studied, with nothing hidden. If we wouldn't give it to our own kids, it doesn't go in the box. | Proprietary blends, mystery fillers, or "natural" used as a buzzword without the proof behind it. |
 | **🔬 Proof over promises** | We back our products with research, ideally in kids at the dose on our label, and explain it in plain language. | Overclaiming or borrowed science. |
@@ -118,7 +124,7 @@ Every kid has a spark: a wild imagination, a brave idea, a giggle that fills the
 
 ---
 
-## 5. Narrative for grown-ups: *the story behind the magic*
+## 5. Narrative for grown-ups: *the story behind the brand*
 
 *For the website's "Our Story" and "The Science" pages, investor and retail decks, and pediatricians. Same heart, plain language.*
 
@@ -137,7 +143,7 @@ Every kid has a spark: a wild imagination, a brave idea, a giggle that fills the
 **Proof.** In the study, children taking Bacozest improved compared with placebo on focus, planning, memory and learning, hyperactivity and distraction, sleep quality, anxiety and aggression, and getting along with others, with no serious side effects reported. We hold exclusive US sourcing rights, so no other brand can claim this study.
 
 ### Short versions
-- **For kids:** *"You've got the spark! Mix it, sip it, shine, and celebrate every win!"*
+- **For kids:** *"You've got the spark. Mix it, sip it, own it, and take the W."*
 - **For grown-ups (elevator):** *"Homework shouldn't be a battle. [Brand] Focus & Calm is one gentle, natural, non-stimulant ingredient, studied in kids ages 6–12 at the exact dose in every stick, to support focus, memory and calm. Kids love the taste, you'll love what's inside, and every win gets celebrated."*
 - **One-liner:** *"The fun, natural kids' focus and calm supplement, proven in its own children's study."*
 
@@ -180,7 +186,7 @@ Every kid has a spark: a wild imagination, a brave idea, a giggle that fills the
 
 ### Messaging pillars
 
-| 🔬 Studied in kids | 🔍 Nothing hidden | 🌱 Gentle by design | 🎉 Every win is a big deal |
+| 🔬 Studied in kids | 🔍 Nothing hidden | 🌱 Gentle by design | 🏆 Every W counts |
 |---|---|---|---|
 | A real children's trial, not borrowed science. | One natural ingredient, one clinical dose. | Non-stimulant, made for growing kids. | Less frustration, more celebration. |
 
@@ -197,51 +203,54 @@ Every kid has a spark: a wild imagination, a brave idea, a giggle that fills the
 
 ## 7. Personality: *who we are*
 
-**If [Brand] were a character:** the lovable sidekick in your favorite animated movie. Bursting with wonder and zeal, the first to cheer when the hero wins, always ready for the next adventure. Funny, brave and kind, and secretly the smartest one in the room. Kids want to be their best friend; grown-ups trust them completely.
+**If [Brand] were a character:** the scene-stealing sidekick in a Pixar movie. Quick-witted, a little cheeky, always up for an adventure, and the first to hype up the hero when they win. Funny enough that kids quote them; smart and kind enough that parents trust them completely.
 
 | We are… | …but not |
 |---|---|
-| **Fun and playful** | Silly or babyish (we grow up with our kids) |
-| **Full of wonder and a little magic** | Fake, or promising things that aren't real |
-| **Zealous and joyful** | Over-the-top or hyper |
-| **Encouraging, the #1 cheerleader** | Pushy or perfectionist |
-| **Warm, full of heart** | Sappy or sugary |
-| **Smart and honest** | Clinical, preachy or hype-y |
+| **Funny, with a little edge** | Mean, sarcastic, or making fun of anyone |
+| **Cool and confident** | Trying too hard, or "fellow kids" cringe |
+| **Hype and high energy** | Hyper, chaotic or over-the-top |
+| **Encouraging, your #1 hype squad** | Pushy or perfectionist |
+| **Real, full of heart** | Cheesy, sappy or babyish |
+| **Smart and honest** | Clinical, preachy or salesy |
 
-### How we tell stories *(our "think like Disney" playbook)*
-1. **The kid is always the hero.** We're the sidekick and the cheer squad, never the star.
-2. **Every day is an adventure.** Homework is a quest, bedtime is a journey, a deep breath is a superpower.
-3. **Small moments are magic moments.** Opening the box, peeling a sticker, adding a star: we design each one to feel special.
-4. **Characters bring it to life.** A lovable mascot (and maybe friends for each product) gives kids someone to root for and grow up with.
-5. **Wonder you can see and hear.** Bright colors, playful sounds, words kids love to say out loud.
-6. **Heart under the fun.** Every story says the same thing: *you can, and we believe in you.*
+### How we tell stories *(our "fun with an edge" playbook)*
+1. **The kid is always the hero.** We're the sidekick and the hype squad, never the star.
+2. **Never talk down.** We talk to 6–12-year-olds like the capable, funny people they are. No baby talk, no "yummy tummy" stuff.
+3. **Make it a game.** Homework is a boss level. A good week is a streak. The chart has levels, badges and unlockables.
+4. **Jokes on two levels.** Like the best Pixar movies: kids laugh at one thing, parents laugh at another.
+5. **Characters with attitude.** A mascot with a real personality (confident, funny, a little mischievous) who kids want to follow, not a baby-faced cartoon.
+6. **Collect and show off.** Sticker drops, rare badges and "W Wall" shout-outs give kids something to collect and be proud of.
+7. **Heart under the hype.** Every story still lands in the same place: *you can, and we've got your back.*
 
-*Note: we're inspired by how Disney tells stories, not by its characters or catchphrases. Avoid Disney-owned phrases (e.g., "Where dreams come true", "The Happiest Place on Earth") and anything that looks like borrowed characters.*
+*Inspired by how Pixar, Disney, Nickelodeon and great games tell stories, not by their characters or catchphrases. Avoid owned phrases and anything that looks like borrowed characters.*
 
 ### Voice by audience
 
 | Audience | Tone | Example |
 |---|---|---|
-| **Kids** *(primary)* | Excited, magical, simple words, lots of cheering. Short sentences, exclamation points welcome, talk *to* them ("you!"). | *"Homework done? WOO-HOO! That's a win! Grab a star!"* · *"Psst… you've got the spark! ✨"* · *"Big wins, little wins, ALL the wins!"* |
+| **Kids** *(primary, ages 6–12)* | Funny, confident, quick. Short lines, a little cheeky, never babyish. Talk *to* them like a cool older friend. | *"Homework: defeated. 🏆 That's a W."* · *"Brain buffering? Same. Mix, sip, let's go."* · *"7-day streak?! Okay, legend."* |
 | **Grown-ups** | Warm, clear, reassuring, a little witty. The same fun spirit, with the facts up front. | *"Homework shouldn't be a battle. Here's what the research says, in plain English."* |
 | **Pediatricians & practitioners** | Precise, evidence-first, no fluff. | *"160 mg standardized Bacopa extract (20% bacosides); placebo-controlled study in children 6–12; summary attached."* |
 
-**Words we love:** spark, shine, WIN!, superstar, adventure, magic, hooray, high five, you've got this, brave, wonder, celebrate.
-**Words we avoid:** cure, treat, fix, disorder, miracle, "smart pill", hack, fuel, boost-your-IQ, and anything that makes a kid feel broken.
+**Words we love:** spark, W, let's go, legend, streak, level up, boss level, epic, crew, real talk, you've got this, own it.
+**Words we avoid:** baby talk ("yummy tummy", "little ones", "kiddos" in kid copy), cure, treat, fix, disorder, miracle, "smart pill", hack, fuel, boost-your-IQ, and anything that makes a kid feel broken. Go easy on fast-changing slang.
 
 ### Where the kid voice lives
 | Touchpoint | Kid voice in action |
 |---|---|
-| **The box** | *"Hey superstar! Open me! ✨"* on the lid; a "Today's win: ______" flap kids fill in |
-| **Stick packs** | A different cheer on each stick: *"You've got this!"* · *"Go shine!"* · *"High five!"* |
-| **Reward chart** | A star (or sticker) for every win; a surprise celebration when the chart is full |
-| **Mascot** | A lovable character who cheers kids on, on the pack, stickers, website and videos |
-| **Website & social** | A kids' corner with games, printable charts and "Win of the Week" shout-outs (shared by parents) |
+| **The box** | *"Open for good vibes only."* on the lid; inside: *"Welcome to the crew."* |
+| **Stick packs** | A different line on every stick: *"Today = yours."* · *"Boss level? Easy."* · *"Main character energy."* · *"Go take the W."* |
+| **The W Tracker** *(reward chart)* | A W for every win; streaks unlock badges; a full chart unlocks a surprise sticker drop |
+| **Collectible stickers** | Sticker "drops" with rare editions, like trading cards |
+| **Mascot** | A confident, funny character with attitude who hypes kids up on the pack, the stickers and in videos |
+| **Website & social** | A kids' zone with games, printable trackers and a "W Wall" of wins (shared by parents) |
 
 ### Speaking to kids, safely *(important)*
 - **Talk to kids in the product experience** (box, sticks, stickers, chart, mascot, kids' corner). **Direct paid advertising and purchase messages to grown-ups.** Children's advertising is self-regulated by **CARU** (the Children's Advertising Review Unit), and collecting data from kids under 13 is governed by **COPPA**. Run kid-facing ads and the kids' corner past compliance review.
 - **Always show a grown-up giving the product.** Never suggest kids take it on their own or "take more for more wins".
-- **Never make it sound like candy.** Keep "yummy" focused on the flavor, and keep packs child-resistant and stored out of reach.
+- **Never make it sound like candy.** Talk about great flavor, not treats, and keep packs child-resistant and stored out of reach.
+- **Gamify the habit, not the dose.** Streaks and W's reward the daily routine (one stick a day), never "more sticks, more W's".
 
 ---
 
@@ -262,7 +271,7 @@ Every kid has a spark: a wild imagination, a brave idea, a giggle that fills the
 ## 9. Open decisions
 
 - [ ] **Brand name:** to be decided. Kudos is on hold (a UK Class 5 filing exists, and nothing has been filed in the US yet). Run a trademark search on the finalists (e.g., Kudos, Props, Booyah, Huzzah) and file a US intent-to-use application for the winner right away.
-- [ ] **Rallying cry:** test *"Let your spark shine! Every win is a big deal."* against the options above, with real kids.
+- [ ] **Rallying cry:** test *"Own your spark. Take the W."* against the options above, with real 6–12-year-olds (they'll tell you fast if it's cringe).
 - [ ] **Mascot:** create the character (it can be developed before the name is final).
 - [ ] **Formula:** Bacozest only, or add supporting ingredients? (A single ingredient keeps the "Nothing hidden" pillar and the study claim clean.)
 - [ ] **Cost of goods**, to confirm the $29.99 / $34.99 pricing.
